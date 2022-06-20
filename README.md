@@ -2,20 +2,14 @@
 Unsupervised visual representation learning (UVRL) aims at learning generic representations for the initialization of downstream tasks. 
 As stated in MoCo, self-supervised learning is a form of unsupervised learning and their distinction is informal in the existing literature. Therefore, it is more inclined to be called UVRL here. So, which one do you prefer?
 
-Note that only image-level representation learning methods are listed in this repository. Video-level self-supervision or multi-modal self-supervision are to be sorted out.
+We list related papers from conferences and journals such as **CVPR**, **ICCV**, **ECCV**, **ICLR**, **ICML**, **NeurIPS**, **AAAI**, **TPAMI**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
 
-<font color="#dd0000">**表示学习CVPR**</font>
-
+Note that only image-level representation learning methods are listed in this repository. Video-level self-supervision and multi-modal self-supervision are to be sorted out.
 
 **Key words:** Unsupervised learning, self-supervised learning, representation learning, pre-training, transfer learning, contrastive learning, pretext task
 
-## Template
+**关键词：** 无监督学习，自监督学习，表示学习，预训练，迁移学习，对比学习，借口（代理）任务
 
-- Tile (**Name** - <font color="#dd0000">**CVPR**</font> ) [[paper]]() [[code]]()
-    > <font color=Gray>**Author(s)**:</font>  \
-    > <font color=Gray>**Organization(s)**:</font>  \
-    > <font color=Gray>**Description**:</font>  \
-    > <font color=Gray>**Tags**:</font> 
 
 ## 2022
 
@@ -49,13 +43,13 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- Unleashing Potential of Unsupervised Pre-Training with Intra-Identity Regularization for Person Re-Identification (**UP-ReID** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Unleashing_Potential_of_Unsupervised_Pre-Training_With_Intra-Identity_Regularization_for_Person_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yang_Unleashing_Potential_of_CVPR_2022_supplemental.pdf)
+- Unleashing Potential of Unsupervised Pre-Training with Intra-Identity Regularization for Person Re-Identification (**UP-ReID** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Unleashing_Potential_of_Unsupervised_Pre-Training_With_Intra-Identity_Regularization_for_Person_CVPR_2022_paper.pdf) [[code]](https://github.com/Frost-Yang-99/UP-ReID) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yang_Unleashing_Potential_of_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Zizheng Yang, Xin Jin, Kecheng Zheng, Feng Zhao \
     > <font color=Gray>**Organization(s)**:</font> University of Science and Technology of China\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- UniVIP: A Unified Framework for Self-Supervised Visual Pre-training (**UniVIP** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_UniVIP_A_Unified_Framework_for_Self-Supervised_Visual_Pre-Training_CVPR_2022_paper.pdf) [[code]]()
+- UniVIP: A Unified Framework for Self-Supervised Visual Pre-training (**UniVIP** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_UniVIP_A_Unified_Framework_for_Self-Supervised_Visual_Pre-Training_CVPR_2022_paper.pdf) [[No code]]()
     > <font color=Gray>**Author(s)**:</font> Zhaowen Li, Yousong Zhu, Fan Yang, Wei Li, Chaoyang Zhao, Yingying Chen, Zhiyang Chen, Jiahao Xie, Liwei Wu, Rui Zhao, Ming Tang, Jinqiao Wang \
     > <font color=Gray>**Organization(s)**:</font> National Laboratory of Pattern Recognition, Institute of Automation, CAS, School of Artificial Intelligence, University of Chinese Academy of Sciences, SenseTime Research, et. al\
     > <font color=Gray>**Description**:</font>  \
@@ -67,7 +61,7 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance with Expanded Views (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.pdf) [[code]]()
+- Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance with Expanded Views (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.pdf) [[No code]]()
     > <font color=Gray>**Author(s)**:</font> Junbo Zhang, Kaisheng Ma \
     > <font color=Gray>**Organization(s)**:</font> Tsinghua University\
     > <font color=Gray>**Description**:</font>  \
@@ -85,7 +79,7 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- Exploring the Equivalence of Siamese Self-Supervised Learning via A Unified Gradient Framework (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Exploring_the_Equivalence_of_Siamese_Self-Supervised_Learning_via_a_Unified_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Tao_Exploring_the_Equivalence_CVPR_2022_supplemental.pdf)
+- Exploring the Equivalence of Siamese Self-Supervised Learning via A Unified Gradient Framework (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Exploring_the_Equivalence_of_Siamese_Self-Supervised_Learning_via_a_Unified_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Tao_Exploring_the_Equivalence_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Chenxin Tao, Honghui Wang, Xizhou Zhu, Jiahua Dong, Shiji Song, Gao Huang, Jifeng Dai \
     > <font color=Gray>**Organization(s)**:</font> Tsinghua University, SenseTime Research, Zhejiang University, Beijing Academy of Artificial Intelligence\
     > <font color=Gray>**Description**:</font>  \
@@ -97,19 +91,19 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- Directional Self-supervised Learning for Heavy Image Augmentations (**DSSL** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_Directional_Self-Supervised_Learning_for_Heavy_Image_Augmentations_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Bai_Directional_Self-Supervised_Learning_CVPR_2022_supplemental.pdf)
+- Directional Self-supervised Learning for Heavy Image Augmentations (**DSSL** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_Directional_Self-Supervised_Learning_for_Heavy_Image_Augmentations_CVPR_2022_paper.pdf) [[code]](https://github.com/Yif-Yang/DSSL) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Bai_Directional_Self-Supervised_Learning_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Yalong Bai, Yifan Yang, Wei Zhang, Tao Mei \
     > <font color=Gray>**Organization(s)**:</font>  JD AI Research, Peking University\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- Unsupervised Visual Representation Learning by Online Constrained K-Means (**CoKe** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qian_Unsupervised_Visual_Representation_Learning_by_Online_Constrained_K-Means_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Qian_Unsupervised_Visual_Representation_CVPR_2022_supplemental.pdf)
+- Unsupervised Visual Representation Learning by Online Constrained K-Means (**CoKe** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qian_Unsupervised_Visual_Representation_Learning_by_Online_Constrained_K-Means_CVPR_2022_paper.pdf) [[code]](https://github.com/idstcv/CoKe) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Qian_Unsupervised_Visual_Representation_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Qi Qian, Yuanhong Xu, Juhua Hu, Hao Li, Rong Jin \
     > <font color=Gray>**Organization(s)**:</font>  Alibaba Group, Bellevue, Alibaba Group, Hangzhou, University of Washington\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- Align Representations with Base: A New Approach to Self-Supervised Learning (**ARB** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Align_Representations_With_Base_A_New_Approach_to_Self-Supervised_Learning_CVPR_2022_paper.pdf) [[code]]()
+- Align Representations with Base: A New Approach to Self-Supervised Learning (**ARB** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Align_Representations_With_Base_A_New_Approach_to_Self-Supervised_Learning_CVPR_2022_paper.pdf) [[code]](https://github.com/Sherrylone/Align-Representation-with-Base)
     > <font color=Gray>**Author(s)**:</font> Shaofeng Zhang, Lyn Qiu, Feng Zhu, Junchi Yan, Hengrui Zhang, Rui Zhao, Hongyang Li, Xiaokang Yang \
     > <font color=Gray>**Organization(s)**:</font>  Shanghai Jiao Tong University, SenseTime Research\
     > <font color=Gray>**Description**:</font>  \
@@ -121,19 +115,19 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Dense representation
 
-- Patch-level Representation Learning for Self-supervised Vision Transformers (**SelfPatch** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yun_Patch-Level_Representation_Learning_for_Self-Supervised_Vision_Transformers_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yun_Patch-Level_Representation_Learning_CVPR_2022_supplemental.pdf)
+- Patch-level Representation Learning for Self-supervised Vision Transformers (**SelfPatch** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yun_Patch-Level_Representation_Learning_for_Self-Supervised_Vision_Transformers_CVPR_2022_paper.pdf) [[code]](https://github.com/alinlab/SelfPatch) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yun_Patch-Level_Representation_Learning_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Sukmin Yun, Hankook Lee, Jaehyung Kim, Jinwoo Shin \
     > <font color=Gray>**Organization(s)**:</font>  Korea Advanced Institute of Science and Technology (KAIST)\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Dense representation
 
-- Self-Supervised Learning of Object Parts for Semantic Segmentation (**Leopart** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ziegler_Self-Supervised_Learning_of_Object_Parts_for_Semantic_Segmentation_CVPR_2022_paper.pdf) [[code]]( https://github.com/MkuuWaUjinga/leopart) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Ziegler_Self-Supervised_Learning_of_CVPR_2022_supplemental.pdf)
+- Self-Supervised Learning of Object Parts for Semantic Segmentation (**Leopart** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ziegler_Self-Supervised_Learning_of_Object_Parts_for_Semantic_Segmentation_CVPR_2022_paper.pdf) [[No code]]( https://github.com/MkuuWaUjinga/leopart) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Ziegler_Self-Supervised_Learning_of_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Adrian Ziegler, Yuki M. Asano \
     > <font color=Gray>**Organization(s)**:</font>  Technical University of Munich, QUVA Lab, University of Amsterdam\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Dense representation
 
-- Point-Level Region Contrast for Object Detection Pre-Training (**** - <font color="#dd0000">**CVPR**</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_Point-Level_Region_Contrast_for_Object_Detection_Pre-Training_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Bai_Point-Level_Region_Contrast_CVPR_2022_supplemental.pdf)
+- Point-Level Region Contrast for Object Detection Pre-Training (**** - <font color="#dd0000">**CVPR**</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_Point-Level_Region_Contrast_for_Object_Detection_Pre-Training_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Bai_Point-Level_Region_Contrast_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Yutong Bai, Xinlei Chen, Alexander Kirillov, Alan Yuille, Alexander C. Berg \
     > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research (FAIR), Johns Hopkins University\
     > <font color=Gray>**Description**:</font>  \
@@ -145,19 +139,19 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Label supervision
     
-- Revisiting the Transferability of Supervised Pretraining: an MLP Perspective (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Revisiting_the_Transferability_of_Supervised_Pretraining_An_MLP_Perspective_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_Revisiting_the_Transferability_CVPR_2022_supplemental.pdf)
+- Revisiting the Transferability of Supervised Pretraining: an MLP Perspective (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Revisiting_the_Transferability_of_Supervised_Pretraining_An_MLP_Perspective_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_Revisiting_the_Transferability_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Yizhou Wang, Shixiang Tang, Feng Zhu, Lei Bai, Rui Zhao, Donglian Qi, Wanli Ouyang \
     > <font color=Gray>**Organization(s)**:</font>  Zhejiang University, The University of Sydney, SenseTime Research, Shanghai Jiao Tong University\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Label supervision
 
-- Does Robustness on ImageNet Transfer to Downstream Tasks? (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Does_Robustness_on_ImageNet_Transfer_to_Downstream_Tasks_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yamada_Does_Robustness_on_CVPR_2022_supplemental.pdf)
+- Does Robustness on ImageNet Transfer to Downstream Tasks? (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Does_Robustness_on_ImageNet_Transfer_to_Downstream_Tasks_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yamada_Does_Robustness_on_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Yutaro Yamada, Mayu Otani \
     > <font color=Gray>**Organization(s)**:</font>  Yale University, CyberAgent, Inc. \
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Analysis
 
-- When Does Contrastive Visual Representation Learning Work? (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cole_When_Does_Contrastive_Visual_Representation_Learning_Work_CVPR_2022_paper.pdf) [[code]]()
+- When Does Contrastive Visual Representation Learning Work? (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cole_When_Does_Contrastive_Visual_Representation_Learning_Work_CVPR_2022_paper.pdf) [[No code]]()
     > <font color=Gray>**Author(s)**:</font> Elijah Cole, Xuan Yang, Kimberly Wilber, Oisin Mac Aodha, Serge Belongie \
     > <font color=Gray>**Organization(s)**:</font>  Caltech, Google, University of Edinburgh, Alan Turing Institute, University of Copenhagen\
     > <font color=Gray>**Description**:</font>  \
@@ -169,7 +163,7 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Analysis
 
-- Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gwilliam_Beyond_Supervised_vs._Unsupervised_Representative_Benchmarking_and_Analysis_of_Image_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Gwilliam_Beyond_Supervised_vs._CVPR_2022_supplemental.pdf)
+- Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning (**** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gwilliam_Beyond_Supervised_vs._Unsupervised_Representative_Benchmarking_and_Analysis_of_Image_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Gwilliam_Beyond_Supervised_vs._CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Matthew Gwilliam, Abhinav Shrivastava \
     > <font color=Gray>**Organization(s)**:</font>  University of Maryland, College Park\
     > <font color=Gray>**Description**:</font>  \
@@ -188,32 +182,32 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**<
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Transformer
 
-- Masked Autoencoders Are Scalable Vision Learners (**MAE** - <font color="#dd0000">**CVPR**</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/He_Masked_Autoencoders_Are_CVPR_2022_supplemental.pdf)
+- Masked Autoencoders Are Scalable Vision Learners (**MAE** - <font color="#dd0000">**CVPR**</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) [[code]](https://github.com/facebookresearch/mae) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/He_Masked_Autoencoders_Are_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick \
     > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research (FAIR)\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Transformer
 
-- Masked Feature Prediction for Self-Supervised Visual Pre-Training (**MAE** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Masked_Feature_Prediction_for_Self-Supervised_Visual_Pre-Training_CVPR_2022_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wei_Masked_Feature_Prediction_CVPR_2022_supplemental.pdf)
+- Masked Feature Prediction for Self-Supervised Visual Pre-Training (**MaskFeat** - <font color="#dd0000">**CVPR**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Masked_Feature_Prediction_for_Self-Supervised_Visual_Pre-Training_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wei_Masked_Feature_Prediction_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Chen Wei, Haoqi Fan, Saining Xie, Chao-Yuan Wu, Alan Yuille, Christoph Feichtenhofer \
     > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research, Johns Hopkins University\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Transformer
 
-- CoDo: Contrastive Learning with Downstream Background Invariance for Detection (**CoDo** - <font color="#dd0000">**CVPRW**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zhao_CoDo_Contrastive_Learning_With_Downstream_Background_Invariance_for_Detection_CVPRW_2022_paper.pdf) [[code]]()
+- CoDo: Contrastive Learning with Downstream Background Invariance for Detection (**CoDo** - <font color="#dd0000">**CVPRW**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zhao_CoDo_Contrastive_Learning_With_Downstream_Background_Invariance_for_Detection_CVPRW_2022_paper.pdf) [[No code]]()
     > <font color=Gray>**Author(s)**:</font> Bing Zhao, Jun Li, Hong Zhu \
     > <font color=Gray>**Organization(s)**:</font>  Department of AI and HPC Inspur Electronic Information Industry Co., Ltd\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Dense representation
 
-- What Should Be Equivariant In Self-Supervised Learning (**** - <font color="#dd0000">**CVPRW**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf) [[code]]()
+- What Should Be Equivariant In Self-Supervised Learning (**** - <font color="#dd0000">**CVPRW**</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf) [[No code]]()
     > <font color=Gray>**Author(s)**:</font> Yuyang Xie, Jianhong Wen, Kin Wai Lau, Yasar Abbas Ur Rehman, Jiajun Shen \
     > <font color=Gray>**Organization(s)**:</font>  TCL AI Lab, Fuzhou University, City University of Hong Kong\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Analysis
 
-- Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer (**** - <font color="#dd0000">**CVPRW**</font>) [[paper]]() [[code]]()
-    > <font color=Gray>**Author(s)**:</font>  \
+- Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer (**** - <font color="#dd0000">**CVPRW**</font>) [[paper]](https://arxiv.org/abs/2206.00481) [[code]](https://github.com/guglielmocamporese/relvit)
+    > <font color=Gray>**Author(s)**:</font> Guglielmo Camporese, Elena Izzo, Lamberto Ballan \
     > <font color=Gray>**Organization(s)**:</font>  University of Padova, Italy\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
@@ -249,5 +243,6 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**<
 ## 2014
 
 
+***
 
 Thanks for the support of Prof. [Yu Zhou](https://people.ucas.ac.cn/~yuzhou).
