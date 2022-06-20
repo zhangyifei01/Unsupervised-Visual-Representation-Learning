@@ -197,6 +197,12 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Transformer
 
+- Self-Taught Metric Learning without Labels (**STML** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Self-Taught_Metric_Learning_Without_Labels_CVPR_2022_paper.pdf) [[code]](https://github.com/tjddus9597/STML-CVPR22) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Kim_Self-Taught_Metric_Learning_CVPR_2022_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Sungyeon Kim, Dongwon Kim, Minsu Cho, Suha Kwak \
+    > <font color=Gray>**Organization(s)**:</font>  FDept. of CSE, POSTECH; Graduate School of AI, POSTECH\
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font> 
+
 - CoDo: Contrastive Learning with Downstream Background Invariance for Detection (**CoDo** - <font color="#dd0000">**CVPRW**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zhao_CoDo_Contrastive_Learning_With_Downstream_Background_Invariance_for_Detection_CVPRW_2022_paper.pdf) [[~~No code~~]]()
     > <font color=Gray>**Author(s)**:</font> Bing Zhao, Jun Li, Hong Zhu \
     > <font color=Gray>**Organization(s)**:</font>  Department of AI and HPC Inspur Electronic Information Industry Co., Ltd\
@@ -331,22 +337,100 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Analysis
 
+- Unsupervised Hyperbolic Metric Learning (**** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Unsupervised_Hyperbolic_Metric_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/JiexiYan/UnHyperML) 
+    > <font color=Gray>**Author(s)**:</font> Jiexi Yan, Lei Luo, Cheng Deng, Heng Huang \
+    > <font color=Gray>**Organization(s)**:</font> Xidian University; University of Pittsburgh; JD Finance America Corporation, Mountain View \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Metric Learning
+
+- Relative Order Analysis and Optimization for Unsupervised Deep Metric Learning (**ROUL** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Kan_Relative_Order_Analysis_and_Optimization_for_Unsupervised_Deep_Metric_Learning_CVPR_2021_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Kan_Relative_Order_Analysis_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Shichao Kan, Yigang Cen, Yang Li, Vladimir Mladenovic, Zhihai He \
+    > <font color=Gray>**Organization(s)**:</font>  Beijing Jiaotong University; Beijing Key Laboratory of Advanced Information Science and Network Technology; University of Missouri; Faculty of Technical Sciences University of Kragujevac \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Metric Learning
+
 ## 2020
 
-- Momentum Contrast for Unsupervised Visual Representation Learning (**MoCo** - <font color="#dd0000">**CVPR**20</font> Oral) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) [[code]](https://github.com/facebookresearch/moco)
+- Momentum Contrast for Unsupervised Visual Representation Learning (**MoCo** - <font color="#dd0000">**CVPR**20</font> Oral) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) [[code]](https://github.com/facebookresearch/moco) [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/He_Momentum_Contrast_for_CVPR_2020_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick \
     > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research (FAIR)\
     > <font color=Gray>**Description**:</font>  Building a dynamic dictionary with a queue and a moving-averaged encoder \
     > <font color=Gray>**Tags**:</font> InfoNCE loss, siamese architecture
 
+- Online Deep Clustering for Unsupervised Representation Learning (**ODC** - <font color="#dd0000">**CVPR**20</font> Oral) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhan_Online_Deep_Clustering_for_Unsupervised_Representation_Learning_CVPR_2020_paper.pdf) [[code]](https://github.com/open-mmlab/mmselfsup) 
+    > <font color=Gray>**Author(s)**:</font> Xiaohang Zhan, Jiahao Xie, Ziwei Liu, Yew-Soon Ong, Chen Change Loy \
+    > <font color=Gray>**Organization(s)**:</font> CUHK - SenseTime Joint Lab, The Chinese University of Hong Kong; Nanyang Technological University; AI3, A*STAR \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Steering Self-Supervised Feature Learning Beyond Local Pixel Statistics (**LCI** - <font color="#dd0000">**CVPR**20</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jenni_Steering_Self-Supervised_Feature_Learning_Beyond_Local_Pixel_Statistics_CVPR_2020_paper.pdf) [[code]](https://github.com/sjenni/LCI) [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Jenni_Steering_Self-Supervised_Feature_CVPR_2020_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Simon Jenni, Hailin Jin, Paolo Favaro \
+    > <font color=Gray>**Organization(s)**:</font> University of Bern; Adobe Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Learning Representations by Predicting Bags of Visual Words (**BoWNet** - <font color="#dd0000">**CVPR**20</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gidaris_Learning_Representations_by_Predicting_Bags_of_Visual_Words_CVPR_2020_paper.pdf) [[code]](https://github.com/valeoai/bownet) [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Gidaris_Learning_Representations_by_CVPR_2020_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Spyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Perez, Matthieu Cord \
+    > <font color=Gray>**Organization(s)**:</font> Valeo.ai; University of Crete \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Probabilistic Structural Latent Representation for Unsupervised Embedding (**PSLR** - <font color="#dd0000">**CVPR**20</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Probabilistic_Structural_Latent_Representation_for_Unsupervised_Embedding_CVPR_2020_paper.pdf) [[code]](https://github.com/mangye16/PSLR) 
+    > <font color=Gray>**Author(s)**:</font> Mang Ye, Jianbing Shen \
+    > <font color=Gray>**Organization(s)**:</font> Inception Institute of Artificial Intelligence \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Self-Supervised Learning of Pretext-Invariant Representations (**PIRL** - <font color="#dd0000">**CVPR**20</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.pdf) [[unofficial code]](https://github.com/akwasigroch/Pretext-Invariant-Representations) 
+    > <font color=Gray>**Author(s)**:</font> Ishan Misra, Laurens van der Maaten \
+    > <font color=Gray>**Organization(s)**:</font> Facebook AI Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- How Useful is Self-Supervised Pretraining for Visual Tasks? (**** - <font color="#dd0000">**CVPR**20</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Newell_How_Useful_Is_Self-Supervised_Pretraining_for_Visual_Tasks_CVPR_2020_paper.pdf) [[code]](github.com/princeton-vl/selfstudy) [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Newell_How_Useful_Is_CVPR_2020_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Alejandro Newell, Jia Deng \
+    > <font color=Gray>**Organization(s)**:</font> Princeton University \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>  Analysis
+
 
 ## 2019
 
-- Unsupervised Embedding Learning via Invariant and Spreading Instance Feature (**ISIF** - <font color="#dd0000">**CVPR**19</font>) [[paper]]() [[code]]()
+- Unsupervised Embedding Learning via Invariant and Spreading Instance Feature (**ISIF** - <font color="#dd0000">**CVPR**19</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ye_Unsupervised_Embedding_Learning_via_Invariant_and_Spreading_Instance_Feature_CVPR_2019_paper.pdf) [[code]](https://github.com/mangye16/Unsupervised_Embedding_Learning)
     > <font color=Gray>**Author(s)**:</font> Mang Ye, Xu Zhang,  Pong C. Yuen, Shih-Fu Chang\
     > <font color=Gray>**Organization(s)**:</font>  Hong Kong Baptist University; Columbia University\
     > <font color=Gray>**Description**:</font>  Learning augmentation invariant  and instance spread-out features \
     > <font color=Gray>**Tags**:</font> Siamese architecture
+
+- Self-Supervised Representation Learning by Rotation Feature Decoupling (**FeatureDecoupling** - <font color="#dd0000">**CVPR**19</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf) [[code]](https://github.com/philiptheother/FeatureDecoupling) [[supp]](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Feng_Self-Supervised_Representation_Learning_CVPR_2019_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Zeyu Feng, Chang Xu, Dacheng Tao \
+    > <font color=Gray>**Organization(s)**:</font> UBTECH Sydney AI Centre, School of Computer Science; University of Sydney \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Iterative Reorganization with Weak Spatial Constraints: Solving Arbitrary Jigsaw Puzzles for Unsupervised Representation Learning (**** - <font color="#dd0000">**CVPR**19</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Iterative_Reorganization_With_Weak_Spatial_Constraints_Solving_Arbitrary_Jigsaw_Puzzles_CVPR_2019_paper.pdf) [[~~No code~~]]()
+    > <font color=Gray>**Author(s)**:</font> Chen Wei, Lingxi Xie, Xutong Ren, Yingda Xia, Chi Su, Jiaying Liu, Qi Tian, Alan L. Yuille \
+    > <font color=Gray>**Organization(s)**:</font> Peking University; The Johns Hopkins University; Kingsoft; Huawei Noah’s Ark Lab \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Self-Supervised GANs via Auxiliary Rotation Loss (**SS-GAN** - <font color="#dd0000">**CVPR**19</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Self-Supervised_GANs_via_Auxiliary_Rotation_Loss_CVPR_2019_paper.pdf) [[code]]( https://github.com/google/compare_gan) [[supp]](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Chen_Self-Supervised_GANs_via_CVPR_2019_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Ting Chen, Xiaohua Zhai, Marvin Ritter, Mario Lucic, Neil Houlsby \
+    > <font color=Gray>**Organization(s)**:</font> University of California, Los Angeles; Google Brain \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> GAN
+
+- AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data (**AET** - <font color="#dd0000">**CVPR**19</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_AET_vs._AED_Unsupervised_Representation_Learning_by_Auto-Encoding_Transformations_Rather_CVPR_2019_paper.pdf) [[code]](https://github.com/maple-research-lab/AET)
+    > <font color=Gray>**Author(s)**:</font> Liheng Zhang, Guo-Jun Qi, Liqiang Wang, Jiebo Luo \
+    > <font color=Gray>**Organization(s)**:</font> Huawei Cloud; University of Central Florida; University of Rochester \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Revisiting Self-Supervised Visual Representation Learning (**** - <font color="#dd0000">**CVPR**19</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kolesnikov_Revisiting_Self-Supervised_Visual_Representation_Learning_CVPR_2019_paper.pdf) [[code]](https://github.com/google/revisiting-self-supervised) [[supp]](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Kolesnikov_Revisiting_Self-Supervised_Visual_CVPR_2019_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Alexander Kolesnikov, Xiaohua Zhai, Lucas Beyer \
+    > <font color=Gray>**Organization(s)**:</font> Google Brain \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Revisiting
 
 ## 2018
 
@@ -355,6 +439,24 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Organization(s)**:</font>  UC Berkeley/ICSI; Chinese University of Hong Kong; Amazon Rekognition\
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Contrastive learning, single branch
+
+- Improvements to context based self-supervised learning ( **** - <font color="#dd0000">**CVPR**18</font>) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Mundhenk_Improvements_to_Context_CVPR_2018_paper.pdf) [[code]](https://gdo-datasci.llnl.gov/selfsupervised/) [[supp]](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3991-supp.pdf)
+    > <font color=Gray>**Author(s)**:</font> T. Nathan Mundhenk, Daniel Ho, Barry Y. Chen \
+    > <font color=Gray>**Organization(s)**:</font> Lawrence Livermore National Laboratory; University of California, Berkeley \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Self-Supervised Feature Learning by Learning to Spot Artifacts ( **** - <font color="#dd0000">**CVPR**18</font>) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jenni_Self-Supervised_Feature_Learning_CVPR_2018_paper.pdf) [[code]](https://github.com/sjenni/LearningToSpotArtifacts)
+    > <font color=Gray>**Author(s)**:</font> Simon Jenni, Paolo Favaro \
+    > <font color=Gray>**Organization(s)**:</font> University of Bern \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Boosting Self-Supervised Learning via Knowledge Transfer ( **** - <font color="#dd0000">**CVPR**18</font>) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Noroozi_Boosting_Self-Supervised_Learning_CVPR_2018_paper.pdf) [[~~No code~~]]() 
+    > <font color=Gray>**Author(s)**:</font> Mehdi Noroozi, Ananth Vinjimoor, Paolo Favaro, Hamed Pirsiavash \
+    > <font color=Gray>**Organization(s)**:</font> University of Bern; University of Maryland, Baltimore County \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
 
 
 ## 2017
