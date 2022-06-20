@@ -461,7 +461,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 
 ## 2017
 
-- Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction (**Split-Brain Auto** - <font color="#dd0000">**CVPR**17</font> ) [[paper]]() [[code]]()
+- Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction (**Split-Brain Auto** - <font color="#dd0000">**CVPR**17</font> ) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Split-Brain_Autoencoders_Unsupervised_CVPR_2017_paper.pdf) [[code]](https://github.com/richzhang/splitbrainauto)
     > <font color=Gray>**Author(s)**:</font> Richard Zhang, Phillip Isola, Alexei A. Efros\
     > <font color=Gray>**Organization(s)**:</font>  Berkeley AI Research (BAIR) Laboratory, University of California, Berkeley\
     > <font color=Gray>**Description**:</font>   \
@@ -469,7 +469,19 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 
 ## 2016
 
-- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles (**Jigsaw** - <font color="#dd0000">**ECCV**16</font> ) [[paper]]() [[code]]()
+- Context Encoders: Feature Learning by Inpainting (**Inpainting** - <font color="#dd0000">**CVPR**16</font> ) [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf) [[unofficial code]](https://github.com/BoyuanJiang/context_encoder_pytorch)
+    > <font color=Gray>**Author(s)**:</font> Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros \
+    > <font color=Gray>**Organization(s)**:</font> University of California, Berkeley \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Pretext task
+
+- Unsupervised Learning of Discriminative Attributes and Visual Representations (**** - <font color="#dd0000">**CVPR**16</font> ) [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Huang_Unsupervised_Learning_of_CVPR_2016_paper.pdf) [[~~No code~~]]()
+    > <font color=Gray>**Author(s)**:</font> Chen Huang, Chen Change Loy, Xiaoou Tang \
+    > <font color=Gray>**Organization(s)**:</font>  The Chinese University of Hong Kong; SenseTime Group Limited; Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles (**Jigsaw** - <font color="#dd0000">**ECCV**16</font> ) [[paper]]() [[unofficial code]](https://github.com/bbrattoli/JigsawPuzzlePytorch)
     > <font color=Gray>**Author(s)**:</font> Mehdi Noroozi, Paolo Favaro\
     > <font color=Gray>**Organization(s)**:</font>  Carnegie Mellon University; University of California, Berkeley\
     > <font color=Gray>**Description**:</font>   \
@@ -477,7 +489,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 
 ## 2015
 
-- Unsupervised Visual Representation Learning by Context Prediction (**Context** - <font color="#dd0000">**ICCV**15</font> ) [[paper]]() [[code]]()
+- Unsupervised Visual Representation Learning by Context Prediction (**Context** - <font color="#dd0000">**ICCV**15</font> ) [[paper]]() [[code]](https://github.com/cdoersch/deepcontext)
     > <font color=Gray>**Author(s)**:</font> Carl Doersch, Abhinav Gupta, Alexei A. Efros\
     > <font color=Gray>**Organization(s)**:</font>  Institute for Informatiks, University of Bern\
     > <font color=Gray>**Description**:</font>   \
@@ -485,7 +497,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 
 ## 2014
 
-- Discriminative Unsupervised Feature Learning with Convolutional Neural Networks (**ExemplarCNN** - <font color="#dd0000">**NeurIPS**14</font> ) [[paper]]() [[code]]()
+- Discriminative Unsupervised Feature Learning with Convolutional Neural Networks (**ExemplarCNN** - <font color="#dd0000">**NeurIPS**14</font> ) [[paper]]() [[unofficial code]](https://github.com/yihui-he/Exemplar-CNN)
     > <font color=Gray>**Author(s)**:</font> Alexey Dosovitskiy, Jost Tobias Springenberg, Martin A. Riedmiller, Thomas Brox\
     > <font color=Gray>**Organization(s)**:</font>  Computer Science Department, University of Freiburg\
     > <font color=Gray>**Description**:</font>   \
