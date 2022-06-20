@@ -2,7 +2,7 @@
 Unsupervised visual representation learning (UVRL) aims at learning generic representations for the initialization of downstream tasks. 
 As stated in MoCo, self-supervised learning is a form of unsupervised learning and their distinction is informal in the existing literature. Therefore, it is more inclined to be called UVRL here. So, which one do you prefer?
 
-We list related papers from conferences and journals such as **CVPR**22, **ICCV**, **ECCV**, **ICLR**, **ICML**, **NeurIPS**, **AAAI**, **TPAMI**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
+We list related papers from conferences and journals such as **CVPR**, **ICCV**, **ECCV**, **ICLR**, **ICML**, **NeurIPS**, **AAAI**, **TPAMI**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
 
 Note that only image-level representation learning methods are listed in this repository. Video-level self-supervision and multi-modal self-supervision are to be sorted out.
 
