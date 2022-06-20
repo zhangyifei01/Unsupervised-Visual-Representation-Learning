@@ -213,17 +213,77 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 
 ## 2021
 
-- Exploring Simple Siamese Representation Learning (**SimSiam** - <font color="#dd0000">**CVPR**21</font> Oral) [[paper]]() [[code]]()
+- Exploring Simple Siamese Representation Learning (**SimSiam** - <font color="#dd0000">**CVPR**21</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/facebookresearch/simsiam) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Chen_Exploring_Simple_Siamese_CVPR_2021_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Xinlei Chen, Kaiming He \
     > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research (FAIR)\
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Siamese architecture
 
-- Jigsaw Clustering for Unsupervised Visual Representation Learning (**JigClu** - <font color="#dd0000">**CVPR**21</font> Oral) [[paper]]() [[code]]()
-    > <font color=Gray>**Author(s)**:</font>  \
+- Jigsaw Clustering for Unsupervised Visual Representation Learning (**JigClu** - <font color="#dd0000">**CVPR**21</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Jigsaw_Clustering_for_Unsupervised_Visual_Representation_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/Jia-Research-Lab/JigsawClustering) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Chen_Jigsaw_Clustering_for_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Pengguang Chen, Shu Liu, Jiaya Jia \
     > <font color=Gray>**Organization(s)**:</font>  The Chinese University of Hong Kong; SmartMore\
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Single branch
+
+- OBoW: Online Bag-of-Visual-Words Generation for Self-Supervised Learning (**OBoW** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Gidaris_OBoW_Online_Bag-of-Visual-Words_Generation_for_Self-Supervised_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/valeoai/obow) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Gidaris_OBoW_Online_Bag-of-Visual-Words_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Spyros Gidaris, Andrei Bursuc, Gilles Puy, Nikos Komodakis, Matthieu Cord, Patrick Perez \
+    > <font color=Gray>**Organization(s)**:</font>  valeo.ai; University of Crete; Sorbonne Université\
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Spatial Assembly Networks for Image Representation Learning (**SAN** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Spatial_Assembly_Networks_for_Image_Representation_Learning_CVPR_2021_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Spatial_Assembly_Networks_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font>  \
+    > <font color=Gray>**Organization(s)**:</font>  University of Missouri, MO; Beijing Jiaotong University; Shenzhen University\
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- SelfAugment: Automatic Augmentation Policies for Self-Supervised Learning (**SelfAugment** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Reed_SelfAugment_Automatic_Augmentation_Policies_for_Self-Supervised_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/cjrd/selfaugment) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Reed_SelfAugment_Automatic_Augmentation_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font>  \
+    > <font color=Gray>**Organization(s)**:</font>  BAIR, Department of Computer Science, UC Berkeley; Graduate Group in Bioengineering (Berkeley/UCSF), Weill Neurosciences Institute & UCSF Neurological Surgery \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Progressive Stage-wise Learning for Unsupervised Feature Representation Enhancement (**PSL** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Progressive_Stage-Wise_Learning_for_Unsupervised_Feature_Representation_Enhancement_CVPR_2021_paper.pdf) [[No code]]()
+    > <font color=Gray>**Author(s)**:</font>  \
+    > <font color=Gray>**Organization(s)**:</font>  Shanghai Jiao Tong University; Johns Hopkins University; Peking University; MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning (**PixPro** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Propagate_Yourself_Exploring_Pixel-Level_Consistency_for_Unsupervised_Visual_Representation_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/zdaxie/PixPro)
+    > <font color=Gray>**Author(s)**:</font>  \
+    > <font color=Gray>**Organization(s)**:</font>  Tsinghua University; Xi’an Jiaotong University; Microsoft Research Asia \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Dense representation
+
+- How Well Do Self-Supervised Models Transfer? (**** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ericsson_How_Well_Do_Self-Supervised_Models_Transfer_CVPR_2021_paper.pdf) [[code]](https://github.com/linusericsson/ssl-transfer) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Ericsson_How_Well_Do_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font>  \
+    > <font color=Gray>**Organization(s)**:</font>  University of Edinburgh; Samsung AI Research, Cambridge \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Analysis
+
+- Exponential Moving Average Normalization for Self-supervised and Semi-supervised Learning (**EMAN** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cai_Exponential_Moving_Average_Normalization_for_Self-Supervised_and_Semi-Supervised_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/amazon-research/exponential-moving-average-normalization) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cai_Exponential_Moving_Average_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font>  \
+    > <font color=Gray>**Organization(s)**:</font>  Amazon Web Services \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Dense Contrastive Learning for Self-Supervised Visual Pre-Training (**DenseCL** - <font color="#dd0000">**CVPR**21</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dense_Contrastive_Learning_for_Self-Supervised_Visual_Pre-Training_CVPR_2021_paper.pdf) [[code]](https://github.com/WXinlong/DenseCL) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_Dense_Contrastive_Learning_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font>  \
+    > <font color=Gray>**Organization(s)**:</font>  The University of Adelaide; Tongji University; ByteDance AI Lab \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Dense representation
+
+- Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination (**CLD** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Unsupervised_Feature_Learning_by_Cross-Level_Instance-Group_Discrimination_CVPR_2021_paper.pdf) [[code]]( https://github.com/frankxwang/CLD-UnsupervisedLearning) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_Unsupervised_Feature_Learning_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font>  \
+    > <font color=Gray>**Organization(s)**:</font>  UC Berkeley / ICSI; S-Lab, NTU \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries (**AdCo** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_AdCo_Adversarial_Contrast_for_Efficient_Learning_of_Unsupervised_Representations_From_CVPR_2021_paper.pdf) [[code]](https://github.com/maple-research-lab/AdCo) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Hu_AdCo_Adversarial_Contrast_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font>  \
+    > <font color=Gray>**Organization(s)**:</font>  Peking University; Purdue University; Laboratory for MAchine Perception and LEarning (MAPLE) \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
 
 ## 2020
 
