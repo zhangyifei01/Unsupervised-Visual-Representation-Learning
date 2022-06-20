@@ -60,7 +60,7 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- UniVIP: A Unified Framework for Self-Supervised Visual Pre-training (**UniVIP** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_UniVIP_A_Unified_Framework_for_Self-Supervised_Visual_Pre-Training_CVPR_2022_paper.pdf) [[No code]]()
+- UniVIP: A Unified Framework for Self-Supervised Visual Pre-training (**UniVIP** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_UniVIP_A_Unified_Framework_for_Self-Supervised_Visual_Pre-Training_CVPR_2022_paper.pdf) [[~~No code~~]]()
     > <font color=Gray>**Author(s)**:</font> Zhaowen Li, Yousong Zhu, Fan Yang, Wei Li, Chaoyang Zhao, Yingying Chen, Zhiyang Chen, Jiahao Xie, Liwei Wu, Rui Zhao, Ming Tang, Jinqiao Wang \
     > <font color=Gray>**Organization(s)**:</font> National Laboratory of Pattern Recognition, Institute of Automation, CAS; School of Artificial Intelligence, University of Chinese Academy of Sciences; SenseTime Research; etc.\
     > <font color=Gray>**Description**:</font>  \
@@ -72,7 +72,7 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance with Expanded Views (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.pdf) [[No code]]()
+- Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance with Expanded Views (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.pdf) [[~~No code~~]]()
     > <font color=Gray>**Author(s)**:</font> Junbo Zhang, Kaisheng Ma \
     > <font color=Gray>**Organization(s)**:</font> Tsinghua University\
     > <font color=Gray>**Description**:</font>  \
@@ -90,7 +90,7 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- Exploring the Equivalence of Siamese Self-Supervised Learning via A Unified Gradient Framework (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Exploring_the_Equivalence_of_Siamese_Self-Supervised_Learning_via_a_Unified_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Tao_Exploring_the_Equivalence_CVPR_2022_supplemental.pdf)
+- Exploring the Equivalence of Siamese Self-Supervised Learning via A Unified Gradient Framework (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Exploring_the_Equivalence_of_Siamese_Self-Supervised_Learning_via_a_Unified_CVPR_2022_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Tao_Exploring_the_Equivalence_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Chenxin Tao, Honghui Wang, Xizhou Zhu, Jiahua Dong, Shiji Song, Gao Huang, Jifeng Dai \
     > <font color=Gray>**Organization(s)**:</font> Tsinghua University; SenseTime Research; Zhejiang University; Beijing Academy of Artificial Intelligence\
     > <font color=Gray>**Description**:</font>  \
@@ -120,7 +120,7 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
-- Exploring Set Similarity for Dense Self-supervised Representation Learning (**SetSim** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Align_Representations_With_Base_A_New_Approach_to_Self-Supervised_Learning_CVPR_2022_paper.pdf) [[No code]]()
+- Exploring Set Similarity for Dense Self-supervised Representation Learning (**SetSim** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Align_Representations_With_Base_A_New_Approach_to_Self-Supervised_Learning_CVPR_2022_paper.pdf) [[~~No code~~]]()
     > <font color=Gray>**Author(s)**:</font> Shaofeng Zhang, Lyn Qiu, Feng Zhu, Junchi Yan, Hengrui Zhang, Rui Zhao, Hongyang Li, Xiaokang Yang \
     > <font color=Gray>**Organization(s)**:</font>  University of Sydney; Kuaishou Technology; Xidian University; University of Melbourne\
     > <font color=Gray>**Description**:</font>  \
@@ -132,13 +132,13 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Dense representation
 
-- Self-Supervised Learning of Object Parts for Semantic Segmentation (**Leopart** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ziegler_Self-Supervised_Learning_of_Object_Parts_for_Semantic_Segmentation_CVPR_2022_paper.pdf) [[No code]]( https://github.com/MkuuWaUjinga/leopart) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Ziegler_Self-Supervised_Learning_of_CVPR_2022_supplemental.pdf)
+- Self-Supervised Learning of Object Parts for Semantic Segmentation (**Leopart** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ziegler_Self-Supervised_Learning_of_Object_Parts_for_Semantic_Segmentation_CVPR_2022_paper.pdf) [[~~No code~~]]( https://github.com/MkuuWaUjinga/leopart) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Ziegler_Self-Supervised_Learning_of_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Adrian Ziegler, Yuki M. Asano \
     > <font color=Gray>**Organization(s)**:</font>  Technical University of Munich; QUVA Lab, University of Amsterdam\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Dense representation
 
-- Point-Level Region Contrast for Object Detection Pre-Training (**** - <font color="#dd0000">**CVPR**22</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_Point-Level_Region_Contrast_for_Object_Detection_Pre-Training_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Bai_Point-Level_Region_Contrast_CVPR_2022_supplemental.pdf)
+- Point-Level Region Contrast for Object Detection Pre-Training (**** - <font color="#dd0000">**CVPR**22</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_Point-Level_Region_Contrast_for_Object_Detection_Pre-Training_CVPR_2022_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Bai_Point-Level_Region_Contrast_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Yutong Bai, Xinlei Chen, Alexander Kirillov, Alan Yuille, Alexander C. Berg \
     > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research (FAIR); Johns Hopkins University\
     > <font color=Gray>**Description**:</font>  \
@@ -150,19 +150,19 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Label supervision
     
-- Revisiting the Transferability of Supervised Pretraining: an MLP Perspective (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Revisiting_the_Transferability_of_Supervised_Pretraining_An_MLP_Perspective_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_Revisiting_the_Transferability_CVPR_2022_supplemental.pdf)
+- Revisiting the Transferability of Supervised Pretraining: an MLP Perspective (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Revisiting_the_Transferability_of_Supervised_Pretraining_An_MLP_Perspective_CVPR_2022_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_Revisiting_the_Transferability_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Yizhou Wang, Shixiang Tang, Feng Zhu, Lei Bai, Rui Zhao, Donglian Qi, Wanli Ouyang \
     > <font color=Gray>**Organization(s)**:</font>  Zhejiang University; The University of Sydney; SenseTime Research; Shanghai Jiao Tong University\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Label supervision
 
-- Does Robustness on ImageNet Transfer to Downstream Tasks? (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Does_Robustness_on_ImageNet_Transfer_to_Downstream_Tasks_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yamada_Does_Robustness_on_CVPR_2022_supplemental.pdf)
+- Does Robustness on ImageNet Transfer to Downstream Tasks? (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Does_Robustness_on_ImageNet_Transfer_to_Downstream_Tasks_CVPR_2022_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yamada_Does_Robustness_on_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Yutaro Yamada, Mayu Otani \
     > <font color=Gray>**Organization(s)**:</font>  Yale University; CyberAgent, Inc. \
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Analysis
 
-- When Does Contrastive Visual Representation Learning Work? (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cole_When_Does_Contrastive_Visual_Representation_Learning_Work_CVPR_2022_paper.pdf) [[No code]]()
+- When Does Contrastive Visual Representation Learning Work? (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cole_When_Does_Contrastive_Visual_Representation_Learning_Work_CVPR_2022_paper.pdf) [[~~No code~~]]()
     > <font color=Gray>**Author(s)**:</font> Elijah Cole, Xuan Yang, Kimberly Wilber, Oisin Mac Aodha, Serge Belongie \
     > <font color=Gray>**Organization(s)**:</font>  Caltech; Google; University of Edinburgh; Alan Turing Institute; University of Copenhagen\
     > <font color=Gray>**Description**:</font>  \
@@ -174,7 +174,7 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Analysis
 
-- Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gwilliam_Beyond_Supervised_vs._Unsupervised_Representative_Benchmarking_and_Analysis_of_Image_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Gwilliam_Beyond_Supervised_vs._CVPR_2022_supplemental.pdf)
+- Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gwilliam_Beyond_Supervised_vs._Unsupervised_Representative_Benchmarking_and_Analysis_of_Image_CVPR_2022_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Gwilliam_Beyond_Supervised_vs._CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Matthew Gwilliam, Abhinav Shrivastava \
     > <font color=Gray>**Organization(s)**:</font>  University of Maryland, College Park\
     > <font color=Gray>**Description**:</font>  \
@@ -187,19 +187,19 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Transformer
 
-- Masked Feature Prediction for Self-Supervised Visual Pre-Training (**MaskFeat** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Masked_Feature_Prediction_for_Self-Supervised_Visual_Pre-Training_CVPR_2022_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wei_Masked_Feature_Prediction_CVPR_2022_supplemental.pdf)
+- Masked Feature Prediction for Self-Supervised Visual Pre-Training (**MaskFeat** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Masked_Feature_Prediction_for_Self-Supervised_Visual_Pre-Training_CVPR_2022_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wei_Masked_Feature_Prediction_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Chen Wei, Haoqi Fan, Saining Xie, Chao-Yuan Wu, Alan Yuille, Christoph Feichtenhofer \
     > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research; Johns Hopkins University\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Transformer
 
-- CoDo: Contrastive Learning with Downstream Background Invariance for Detection (**CoDo** - <font color="#dd0000">**CVPRW**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zhao_CoDo_Contrastive_Learning_With_Downstream_Background_Invariance_for_Detection_CVPRW_2022_paper.pdf) [[No code]]()
+- CoDo: Contrastive Learning with Downstream Background Invariance for Detection (**CoDo** - <font color="#dd0000">**CVPRW**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zhao_CoDo_Contrastive_Learning_With_Downstream_Background_Invariance_for_Detection_CVPRW_2022_paper.pdf) [[~~No code~~]]()
     > <font color=Gray>**Author(s)**:</font> Bing Zhao, Jun Li, Hong Zhu \
     > <font color=Gray>**Organization(s)**:</font>  Department of AI and HPC Inspur Electronic Information Industry Co., Ltd\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Dense representation
 
-- What Should Be Equivariant In Self-Supervised Learning (**** - <font color="#dd0000">**CVPRW**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf) [[No code]]()
+- What Should Be Equivariant In Self-Supervised Learning (**** - <font color="#dd0000">**CVPRW**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf) [[~~No code~~]]()
     > <font color=Gray>**Author(s)**:</font> Yuyang Xie, Jianhong Wen, Kin Wai Lau, Yasar Abbas Ur Rehman, Jiajun Shen \
     > <font color=Gray>**Organization(s)**:</font>  TCL AI Lab; Fuzhou University; City University of Hong Kong\
     > <font color=Gray>**Description**:</font>  \
@@ -231,7 +231,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> 
 
-- Spatial Assembly Networks for Image Representation Learning (**SAN** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Spatial_Assembly_Networks_for_Image_Representation_Learning_CVPR_2021_paper.pdf) [[No code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Spatial_Assembly_Networks_CVPR_2021_supplemental.pdf)
+- Spatial Assembly Networks for Image Representation Learning (**SAN** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Spatial_Assembly_Networks_for_Image_Representation_Learning_CVPR_2021_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Spatial_Assembly_Networks_CVPR_2021_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Yang Li, Shichao Kan, Jianhe Yuan, Wenming Cao, Zhihai He \
     > <font color=Gray>**Organization(s)**:</font>  University of Missouri, MO; Beijing Jiaotong University; Shenzhen University\
     > <font color=Gray>**Description**:</font>   \
@@ -243,7 +243,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> 
 
-- Progressive Stage-wise Learning for Unsupervised Feature Representation Enhancement (**PSL** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Progressive_Stage-Wise_Learning_for_Unsupervised_Feature_Representation_Enhancement_CVPR_2021_paper.pdf) [[No code]]()
+- Progressive Stage-wise Learning for Unsupervised Feature Representation Enhancement (**PSL** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Progressive_Stage-Wise_Learning_for_Unsupervised_Feature_Representation_Enhancement_CVPR_2021_paper.pdf) [[~~No code~~]]()
     > <font color=Gray>**Author(s)**:</font> Zefan Li, Chenxi Liu, Alan Yuille, Bingbing Ni, Wenjun Zhang, Wen Gao \
     > <font color=Gray>**Organization(s)**:</font>  Shanghai Jiao Tong University; Johns Hopkins University; Peking University; MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University \
     > <font color=Gray>**Description**:</font>   \
@@ -282,6 +282,48 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 - AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries (**AdCo** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_AdCo_Adversarial_Contrast_for_Efficient_Learning_of_Unsupervised_Representations_From_CVPR_2021_paper.pdf) [[code]](https://github.com/maple-research-lab/AdCo) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Hu_AdCo_Adversarial_Contrast_CVPR_2021_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Qianjiang Hu, Xiao Wang, Wei Hu, Guo-Jun Qi \
     > <font color=Gray>**Organization(s)**:</font>  Peking University; Purdue University; Laboratory for MAchine Perception and LEarning (MAPLE) \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- CASTing Your Model: Learning to Localize Improves Self-Supervised Representations (**CAST** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Selvaraju_CASTing_Your_Model_Learning_To_Localize_Improves_Self-Supervised_Representations_CVPR_2021_paper.pdf) [[code]](https://github.com/salesforce/CAST) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Selvaraju_CASTing_Your_Model_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Ramprasaath R. Selvaraju, Karan Desai, Justin Johnson, Nikhil Naik \
+    > <font color=Gray>**Organization(s)**:</font> Salesforce Research; University of Michigan \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Instance Localization for Self-supervised Detection Pretraining (**InsLoc** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Instance_Localization_for_Self-Supervised_Detection_Pretraining_CVPR_2021_paper.pdf) [[code]](https://github.com/limbo0000/InstanceLoc) 
+    > <font color=Gray>**Author(s)**:</font> Ceyuan Yang, Zhirong Wu, Bolei Zhou, Stephen Lin \
+    > <font color=Gray>**Organization(s)**:</font> Chinese University of Hong Kong; Microsoft Research Asia \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering (**PiCIE** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cho_PiCIE_Unsupervised_Semantic_Segmentation_Using_Invariance_and_Equivariance_in_Clustering_CVPR_2021_paper.pdf) [[code]](https://github.com/janghyuncho/PiCIE) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cho_PiCIE_Unsupervised_Semantic_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Jang Hyun Cho, Utkarsh Mall, Kavita Bala, Bharath Hariharan \
+    > <font color=Gray>**Organization(s)**:</font> University of Texas at Austin; Cornell University \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>  Unsupervised semantic segmentation
+
+- Self-supervised Augmentation Consistency for Adapting Semantic Segmentation (**SAC** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Araslanov_Self-Supervised_Augmentation_Consistency_for_Adapting_Semantic_Segmentation_CVPR_2021_paper.pdf) [[code]](https://github.com/visinf/da-sac) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Araslanov_Self-Supervised_Augmentation_Consistency_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Nikita Araslanov, Stefan Roth \
+    > <font color=Gray>**Organization(s)**:</font> Department of Computer Science, TU Darmstadt; hessian.AI \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>  Domain adaptation
+
+- Spatially Consistent Representation Learning (**SCRL** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Roh_Spatially_Consistent_Representation_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/kakaobrain/scrl) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Roh_Spatially_Consistent_Representation_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Byungseok Roh, Wuhyun Shin, Ildoo Kim, Sungwoong Kim \
+    > <font color=Gray>**Organization(s)**:</font> Kakao Brain \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>  Local representation
+
+- UP-DETR: Unsupervised Pre-training for Object Detection with Transformers (**UP-DETR** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_UP-DETR_Unsupervised_Pre-Training_for_Object_Detection_With_Transformers_CVPR_2021_paper.pdf) [[code]](https://github.com/dddzg/up-detr) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Dai_UP-DETR_Unsupervised_Pre-Training_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen \
+    > <font color=Gray>**Organization(s)**:</font> School of Software Engineering, South China University of Technology; Tencent Wechat AI; Key Laboratory of Big Data and Intelligent Robot \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Understanding the Behaviour of Contrastive Loss (**** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Understanding_the_Behaviour_of_Contrastive_Loss_CVPR_2021_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_Understanding_the_Behaviour_CVPR_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Feng Wang, Huaping Liu\
+    > <font color=Gray>**Organization(s)**:</font> Beijing National Research Center for Information Science and Technology(BNRist), Department of Computer Science and Technology, Tsinghua University \
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> 
 
@@ -343,6 +385,10 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Pretext task, instance discrimination
 
+
+***
+
+UVRL is also closely related to some other research directions, such as **Unsupervised Person (Object or Vehicle) Re-Identification**, **Unsupervised Semantic Segmentation**, **Unsupervised Domain Adaptation**, **Knowledge Distillation**, **Deep Clustering**, **Unsupervised Metric (Embedding) Learning**, **Semi-supervised Learning**, **Novel Categories (Classes) Discovery**, etc.
 
 ***
 
