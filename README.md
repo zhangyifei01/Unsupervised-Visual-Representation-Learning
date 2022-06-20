@@ -1,4 +1,8 @@
 # Unsupervised-Visual-Representation-Learning 
+## 无监督视觉表示学习
+
+**[ Updating ...... ]**
+
 Unsupervised visual representation learning (UVRL) aims at learning generic representations for the initialization of downstream tasks. 
 As stated in MoCo, self-supervised learning is a form of unsupervised learning and their distinction is informal in the existing literature. Therefore, it is more inclined to be called UVRL here. So, which one do you prefer?
 
@@ -325,7 +329,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Author(s)**:</font> Feng Wang, Huaping Liu\
     > <font color=Gray>**Organization(s)**:</font> Beijing National Research Center for Information Science and Technology(BNRist), Department of Computer Science and Technology, Tsinghua University \
     > <font color=Gray>**Description**:</font>   \
-    > <font color=Gray>**Tags**:</font> 
+    > <font color=Gray>**Tags**:</font> Analysis
 
 ## 2020
 
