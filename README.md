@@ -598,7 +598,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Author(s)**:</font> Chengxu Zhuang, Alex Lin Zhai, Daniel Yamins \
     > <font color=Gray>**Organization(s)**:</font> Stanford University \
     > <font color=Gray>**Description**:</font>   \
-    > <font color=Gray>**Tags**:</font> 
+    > <font color=Gray>**Tags**:</font> Clustering
 
 - S4L: Self-Supervised Semi-Supervised Learning (**S4L** - <font color="#dd0000">**ICCV**19</font>) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhai_S4L_Self-Supervised_Semi-Supervised_Learning_ICCV_2019_paper.pdf) [[code]](https://github.com/google-research/s4l) [[supp]](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zhai_S4L_Self-Supervised_Semi-Supervised_ICCV_2019_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer \
@@ -622,7 +622,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Author(s)**:</font> Mathilde Caron, Piotr Bojanowski, Julien Mairal, Armand Joulin \
     > <font color=Gray>**Organization(s)**:</font> Facebook AI Research; Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK \
     > <font color=Gray>**Description**:</font>   \
-    > <font color=Gray>**Tags**:</font> 
+    > <font color=Gray>**Tags**:</font> Clustering
 
 ## 2018
 
@@ -659,6 +659,24 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Pretext task
 
+-  Representation Learning by Learning to Count (**** - <font color="#dd0000">**ICCV**17</font> ) [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Noroozi_Representation_Learning_by_ICCV_2017_paper.pdf) [[unofficial code]](https://github.com/clvrai/Representation-Learning-by-Learning-to-Count)
+    > <font color=Gray>**Author(s)**:</font> Mehdi Noroozi, Hamed Pirsiavash, Paolo Favaro \
+    > <font color=Gray>**Organization(s)**:</font>  University of Bern; University of Maryland, Baltimore County \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Pretext task
+
+-  Transitive Invariance for Self-supervised Visual Representation Learning (**** - <font color="#dd0000">**ICCV**17</font> ) [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Transitive_Invariance_for_ICCV_2017_paper.pdf) [[~~No code~~]]()
+    > <font color=Gray>**Author(s)**:</font> Xiaolong Wang, Kaiming He, Abhinav Gupta \
+    > <font color=Gray>**Organization(s)**:</font>  Carnegie Mellon University; Facebook AI Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+-  Multi-task Self-Supervised Visual Learning (**** - <font color="#dd0000">**ICCV**17</font> ) [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Doersch_Multi-Task_Self-Supervised_Visual_ICCV_2017_paper.pdf) [[code]](https://github.com/deepmind/multiself)
+    > <font color=Gray>**Author(s)**:</font> Carl Doersch, Andrew Zisserman \
+    > <font color=Gray>**Organization(s)**:</font>  DeepMind; VGG, Department of Engineering Science, University of Oxford \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
 ## 2016
 
 - Context Encoders: Feature Learning by Inpainting (**Inpainting** - <font color="#dd0000">**CVPR**16</font> ) [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf) [[unofficial code]](https://github.com/BoyuanJiang/context_encoder_pytorch)
@@ -681,11 +699,23 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 
 ## 2015
 
-- Unsupervised Visual Representation Learning by Context Prediction (**Context** - <font color="#dd0000">**ICCV**15</font> ) [[paper]]() [[code]](https://github.com/cdoersch/deepcontext)
+- Unsupervised Visual Representation Learning by Context Prediction (**Context** - <font color="#dd0000">**ICCV**15</font> ) [[paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper.pdf) [[code]](https://github.com/cdoersch/deepcontext)
     > <font color=Gray>**Author(s)**:</font> Carl Doersch, Abhinav Gupta, Alexei A. Efros\
     > <font color=Gray>**Organization(s)**:</font>  Institute for Informatiks, University of Bern\
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Pretext task
+
+- Learning to See by Moving (**** - <font color="#dd0000">**ICCV**15</font> ) [[paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Agrawal_Learning_to_See_ICCV_2015_paper.pdf) [[code]](https://github.com/pulkitag/learning-to-see-by-moving)
+    > <font color=Gray>**Author(s)**:</font> Pulkit Agrawal, Joao Carreira, Jitendra Malik \
+    > <font color=Gray>**Organization(s)**:</font>  UC Berkeley\
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Unsupervised Learning of Visual Representations using Videos (**** - <font color="#dd0000">**ICCV**15</font> ) [[paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_Unsupervised_Learning_of_ICCV_2015_paper.pdf) [[unofficial code]](https://github.com/coreylynch/unsupervised-triplet-embedding)
+    > <font color=Gray>**Author(s)**:</font> Xiaolong Wang, Abhinav Gupta \
+    > <font color=Gray>**Organization(s)**:</font>  Robotics Institute, Carnegie Mellon University\
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
 
 ## 2014
 
