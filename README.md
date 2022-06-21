@@ -128,25 +128,25 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Author(s)**:</font> Shaofeng Zhang, Lyn Qiu, Feng Zhu, Junchi Yan, Hengrui Zhang, Rui Zhao, Hongyang Li, Xiaokang Yang \
     > <font color=Gray>**Organization(s)**:</font>  University of Sydney; Kuaishou Technology; Xidian University; University of Melbourne\
     > <font color=Gray>**Description**:</font>  \
-    > <font color=Gray>**Tags**:</font> Dense representation
+    > <font color=Gray>**Tags**:</font> Local representation
 
 - Patch-level Representation Learning for Self-supervised Vision Transformers (**SelfPatch** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yun_Patch-Level_Representation_Learning_for_Self-Supervised_Vision_Transformers_CVPR_2022_paper.pdf) [[code]](https://github.com/alinlab/SelfPatch) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yun_Patch-Level_Representation_Learning_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Sukmin Yun, Hankook Lee, Jaehyung Kim, Jinwoo Shin \
     > <font color=Gray>**Organization(s)**:</font>  Korea Advanced Institute of Science and Technology (KAIST)\
     > <font color=Gray>**Description**:</font>  \
-    > <font color=Gray>**Tags**:</font> Dense representation
+    > <font color=Gray>**Tags**:</font> Local representation
 
 - Self-Supervised Learning of Object Parts for Semantic Segmentation (**Leopart** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ziegler_Self-Supervised_Learning_of_Object_Parts_for_Semantic_Segmentation_CVPR_2022_paper.pdf) [[~~No code~~]]( https://github.com/MkuuWaUjinga/leopart) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Ziegler_Self-Supervised_Learning_of_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Adrian Ziegler, Yuki M. Asano \
     > <font color=Gray>**Organization(s)**:</font>  Technical University of Munich; QUVA Lab, University of Amsterdam\
     > <font color=Gray>**Description**:</font>  \
-    > <font color=Gray>**Tags**:</font> Dense representation
+    > <font color=Gray>**Tags**:</font> Local representation
 
 - Point-Level Region Contrast for Object Detection Pre-Training (**** - <font color="#dd0000">**CVPR**22</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_Point-Level_Region_Contrast_for_Object_Detection_Pre-Training_CVPR_2022_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Bai_Point-Level_Region_Contrast_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Yutong Bai, Xinlei Chen, Alexander Kirillov, Alan Yuille, Alexander C. Berg \
     > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research (FAIR); Johns Hopkins University\
     > <font color=Gray>**Description**:</font>  \
-    > <font color=Gray>**Tags**:</font> Dense representation
+    > <font color=Gray>**Tags**:</font> Local representation
 
 - Use All The Labels: A Hierarchical Multi-Label Contrastive Learning (**** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Use_All_the_Labels_A_Hierarchical_Multi-Label_Contrastive_Learning_Framework_CVPR_2022_paper.pdf) [[code]](https://github.com/salesforce/hierarchicalContrastiveLearning) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhang_Use_All_the_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Shu Zhang, Ran Xu, Caiming Xiong, Chetan Ramaiah \
@@ -207,7 +207,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Author(s)**:</font> Bing Zhao, Jun Li, Hong Zhu \
     > <font color=Gray>**Organization(s)**:</font>  Department of AI and HPC Inspur Electronic Information Industry Co., Ltd\
     > <font color=Gray>**Description**:</font>  \
-    > <font color=Gray>**Tags**:</font> Dense representation
+    > <font color=Gray>**Tags**:</font> Local representation
 
 - What Should Be Equivariant In Self-Supervised Learning (**** - <font color="#dd0000">**CVPRW**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf) [[~~No code~~]]()
     > <font color=Gray>**Author(s)**:</font> Yuyang Xie, Jianhong Wen, Kin Wai Lau, Yasar Abbas Ur Rehman, Jiajun Shen \
@@ -263,7 +263,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Author(s)**:</font> Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, Han Hu \
     > <font color=Gray>**Organization(s)**:</font>  Tsinghua University; Xi’an Jiaotong University; Microsoft Research Asia \
     > <font color=Gray>**Description**:</font>   \
-    > <font color=Gray>**Tags**:</font> Dense representation
+    > <font color=Gray>**Tags**:</font> Local representation
 
 - How Well Do Self-Supervised Models Transfer? (**** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ericsson_How_Well_Do_Self-Supervised_Models_Transfer_CVPR_2021_paper.pdf) [[code]](https://github.com/linusericsson/ssl-transfer) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Ericsson_How_Well_Do_CVPR_2021_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Linus Ericsson, Henry Gouk, Timothy M. Hospedales \
@@ -281,7 +281,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Author(s)**:</font> Xinlong Wang, Rufeng Zhang, Chunhua Shen, Tao Kong, Lei Li \
     > <font color=Gray>**Organization(s)**:</font>  The University of Adelaide; Tongji University; ByteDance AI Lab \
     > <font color=Gray>**Description**:</font>   \
-    > <font color=Gray>**Tags**:</font> Dense representation
+    > <font color=Gray>**Tags**:</font> Local representation
 
 - Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination (**CLD** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Unsupervised_Feature_Learning_by_Cross-Level_Instance-Group_Discrimination_CVPR_2021_paper.pdf) [[code]]( https://github.com/frankxwang/CLD-UnsupervisedLearning) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_Unsupervised_Feature_Learning_CVPR_2021_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Xudong Wang, Ziwei Liu, Stella X. Yu \
@@ -469,9 +469,45 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font>
 
+- MultiSiam: Self-supervised Multi-instance Siamese Representation Learning for Autonomous Driving (**MultiSiam** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_MultiSiam_Self-Supervised_Multi-Instance_Siamese_Representation_Learning_for_Autonomous_Driving_ICCV_2021_paper.pdf) [[code]](https://github.com/KaiChen1998/MultiSiam) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Chen_MultiSiam_Self-Supervised_Multi-Instance_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Kai Chen, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeung \
+    > <font color=Gray>**Organization(s)**:</font> Hong Kong University of Science and Technology; Huawei Noah’s Ark Lab   \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Local representation
+
+- Region Similarity Representation Learning(**ReSim** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_Region_Similarity_Representation_Learning_ICCV_2021_paper.pdf) [[code]](https://github.com/Tete-Xiao/ReSim) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xiao_Region_Similarity_Representation_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Tete Xiao, Colorado J Reed, Xiaolong Wang, Kurt Keutzer, Trevor Darrell \
+    > <font color=Gray>**Organization(s)**:</font> UC Berkeley; UC San Diego   \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- An Empirical Study of Training Self-Supervised Vision Transformers(**MoCo-v3** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[unofficial code]](https://github.com/open-mmlab/mmselfsup) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Chen_An_Empirical_Study_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Xinlei Chen, Saining Xie, Kaiming He \
+    > <font color=Gray>**Organization(s)**:</font> Facebook AI Research (FAIR)  \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- Emerging Properties in Self-Supervised Vision Transformers(**DINO** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]]( https://github.com/facebookresearch/dino) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Caron_Emerging_Properties_in_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Mathilde Caron, Hugo Touvron, Ishan Misra, Hervé Jégou, Julien Mairal, Piotr Bojanowski, Armand Joulin \
+    > <font color=Gray>**Organization(s)**:</font> Facebook AI Research; Inria∗; Sorbonne University  \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- A Broad Study on the Transferability of Visual Representations with Contrastive Learning (**** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Islam_A_Broad_Study_on_the_Transferability_of_Visual_Representations_With_ICCV_2021_paper.pdf) [[code]](https://github.com/asrafulashiq/transfer_broad) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Islam_A_Broad_Study_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Ashraful Islam, Chun-Fu (Richard) Chen, Rameswar Panda, Leonid Karlinsky, Richard Radke, Rogerio Feris \
+    > <font color=Gray>**Organization(s)**:</font>   Rensselaer Polytechnic Institute; MIT-IBM Watson AI Lab; IBM Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- Concept Generalization in Visual Representation Learning (**CoG** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sariyildiz_Concept_Generalization_in_Visual_Representation_Learning_ICCV_2021_paper.pdf) [[code]](https://europe.naverlabs.com/cog-benchmark) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Sariyildiz_Concept_Generalization_in_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Mert Bulent Sariyildiz, Yannis Kalantidis, Diane Larlus, Karteek Alahari \
+    > <font color=Gray>**Organization(s)**:</font>   NAVER LABS Europe; Inria \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+    
 - Concurrent Discrimination and Alignment for Self-Supervised Feature Learning (**CODIAL** - <font color="#dd0000">**ICCVW**21</font>) [[paper]](https://ieeexplore.ieee.org/document/9607472) [[code]](https://github.com/AnjanDutta/codial)
     > <font color=Gray>**Author(s)**:</font> Anjan Dutta, Massimiliano Mancini, Zeynep Akata \
-    > <font color=Gray>**Organization(s)**:</font>   1University of Exeter; University of T¨ubingen \
+    > <font color=Gray>**Organization(s)**:</font>   University of Exeter; University of T¨ubingen \
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font>
 
