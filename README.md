@@ -215,7 +215,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> Analysis
 
-- Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer (**** - <font color="#dd0000">**CVPRW**22</font>) [[paper]](https://arxiv.org/abs/2206.00481) [[code]](https://github.com/guglielmocamporese/relvit)
+- Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer (**** - <font color="#dd0000">**CVPRW**22</font>?) [[paper]](https://arxiv.org/abs/2206.00481) [[code]](https://github.com/guglielmocamporese/relvit)
     > <font color=Gray>**Author(s)**:</font> Guglielmo Camporese, Elena Izzo, Lamberto Ballan \
     > <font color=Gray>**Organization(s)**:</font>  University of Padova, Italy\
     > <font color=Gray>**Description**:</font>  \
@@ -343,11 +343,137 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Metric Learning
 
-- Relative Order Analysis and Optimization for Unsupervised Deep Metric Learning (**ROUL** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Kan_Relative_Order_Analysis_and_Optimization_for_Unsupervised_Deep_Metric_Learning_CVPR_2021_paper.pdf) [[code]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Kan_Relative_Order_Analysis_CVPR_2021_supplemental.pdf)
+- Relative Order Analysis and Optimization for Unsupervised Deep Metric Learning (**ROUL** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Kan_Relative_Order_Analysis_and_Optimization_for_Unsupervised_Deep_Metric_Learning_CVPR_2021_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Kan_Relative_Order_Analysis_CVPR_2021_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Shichao Kan, Yigang Cen, Yang Li, Vladimir Mladenovic, Zhihai He \
     > <font color=Gray>**Organization(s)**:</font>  Beijing Jiaotong University; Beijing Key Laboratory of Advanced Information Science and Network Technology; University of Missouri; Faculty of Technical Sciences University of Kragujevac \
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Metric Learning
+
+- DetCo: Unsupervised Contrastive Learning for Object Detection (**DetCo** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_DetCo_Unsupervised_Contrastive_Learning_for_Object_Detection_ICCV_2021_paper.pdf) [[code]](github.com/xieenze/DetCo) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xie_DetCo_Unsupervised_Contrastive_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Enze Xie, Jian Ding, Wenhai Wang, Xiaohang Zhan, Hang Xu, Peize Sun, Zhenguo Li, Ping Luo \
+    > <font color=Gray>**Organization(s)**:</font> The University of Hong Kong; Huawei Noah’s Ark Lab; Wuhan University; Nanjing University; Chinese University of Hong Kong  \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Divide and Contrast: Self-supervised Learning from Uncurated Data (**DnC** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Tian_Divide_and_Contrast_Self-Supervised_Learning_From_Uncurated_Data_ICCV_2021_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Tian_Divide_and_Contrast_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Yonglong Tian, Olivier J. Hénaff, Aäron van den Oord \
+    > <font color=Gray>**Organization(s)**:</font> MIT; DeepMind \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Uncurated data
+
+- Improve Unsupervised Pretraining for Few-label Transfer (**** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Improve_Unsupervised_Pretraining_for_Few-Label_Transfer_ICCV_2021_paper.pdf) [[~~No code~~]]() 
+    > <font color=Gray>**Author(s)**:</font> Suichan Li, Dongdong Chen, Yinpeng Chen, Lu Yuan, Lei Zhang, Qi Chu, Bin Liu, Nenghai Yu \
+    > <font color=Gray>**Organization(s)**:</font> University of Science and Technology of China; Microsoft Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Self-Supervised Visual Representations Learning by Contrastive Mask Prediction (**MaskCo** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Self-Supervised_Visual_Representations_Learning_by_Contrastive_Mask_Prediction_ICCV_2021_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Zhao_Self-Supervised_Visual_Representations_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Yucheng Zhao, Guangting Wang, Chong Luo, Wenjun Zeng, Zheng-Jun Zha \
+    > <font color=Gray>**Organization(s)**:</font> University of Science and Technology of China; Microsoft Research Asia \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Local representation
+
+- Mean Shift for Self-Supervised Learning (**MSF** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Koohpayegani_Mean_Shift_for_Self-Supervised_Learning_ICCV_2021_paper.pdf) [[code]](https://github.com/UMBCvision/MSF) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Koohpayegani_Mean_Shift_for_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Soroush Abbasi Koohpayegani, Ajinkya Tejankar, Hamed Pirsiavash \
+    > <font color=Gray>**Organization(s)**:</font> University of Maryland, Baltimore County; University of California, Davis \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Positive discovery
+
+- On Compositions of Transformations in Contrastive Self-Supervised Learning (**GDT** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Patrick_On_Compositions_of_Transformations_in_Contrastive_Self-Supervised_Learning_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/GDT) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Patrick_On_Compositions_of_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Mandela Patrick, Yuki M. Asano, Polina Kuznetsova, Ruth Fong, João F. Henriques, Geoffrey Zweig, Andrea Vedaldi \
+    > <font color=Gray>**Organization(s)**:</font> Facebook AI Research; Visual Geometry Group, University of Oxford \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- On Feature Decorrelation in Self-Supervised Learning (**Shuffled-DBN** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hua_On_Feature_Decorrelation_in_Self-Supervised_Learning_ICCV_2021_paper.pdf) [[~~No code~~]]() 
+    > <font color=Gray>**Author(s)**:</font> Tianyu Hua, Wenxiao Wang, Zihui Xue, Sucheng Ren, Yue Wang, Hang Zhao \
+    > <font color=Gray>**Organization(s)**:</font> Tsinghua University; Shanghai Qi Zhi Institute; UT Austin; MIT; South China University of Technology \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Self-supervised Product Quantization for Deep Unsupervised Image Retrieval (**SPQ** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_Self-Supervised_Product_Quantization_for_Deep_Unsupervised_Image_Retrieval_ICCV_2021_paper.pdf) [[code]](https://github.com/youngkyunJang/SPQ) 
+    > <font color=Gray>**Author(s)**:</font> Young Kyun Jang, Nam Ik Cho \
+    > <font color=Gray>**Organization(s)**:</font> Department of ECE, INMC, Seoul National University \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations (**NNCLR** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Dwibedi_With_a_Little_Help_From_My_Friends_Nearest-Neighbor_Contrastive_Learning_ICCV_2021_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Dwibedi_With_a_Little_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Debidatta Dwibedi, Yusuf Aytar, Jonathan Tompson, Pierre Sermanet, Andrew Zisserman \
+    > <font color=Gray>**Organization(s)**:</font> Google Research; DeepMind \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Contrasting Contrastive Self-Supervised Representation Learning Pipelines (**ViRB** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kotar_Contrasting_Contrastive_Self-Supervised_Representation_Learning_Pipelines_ICCV_2021_paper.pdf) [[code]](https://github.com/allenai/virb) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kotar_Contrasting_Contrastive_Self-Supervised_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Klemen Kotar, Gabriel Ilharco, Ludwig Schmidt, Kiana Ehsani, Roozbeh Mottaghi \
+    > <font color=Gray>**Organization(s)**:</font> PRIOR @ Allen Institute for AI; University of Washington \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> Analysis
+
+- ISD: Self-Supervised Learning by Iterative Similarity Distillation (**ISD** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Tejankar_ISD_Self-Supervised_Learning_by_Iterative_Similarity_Distillation_ICCV_2021_paper.pdf) [[code]](https://github.com/UMBCvision/ISD) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Tejankar_ISD_Self-Supervised_Learning_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Ajinkya Tejankar, Soroush Abbasi Koohpayegani, Vipin Pillai, Paolo Favaro, Hamed Pirsiavash \
+    > <font color=Gray>**Organization(s)**:</font> University of Maryland, Baltimore County; University of Bern; University of California, Davis \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- CDS: Cross-Domain Self-supervised Pre-training (**CDS** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_CDS_Cross-Domain_Self-Supervised_Pre-Training_ICCV_2021_paper.pdf) [[code]](https://github.com/VisionLearningGroup/CDS) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kim_CDS_Cross-Domain_Self-Supervised_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Donghyun Kim, Kuniaki Saito, Tae-Hyun Oh, Bryan A. Plummer, Stan Sclaroff, Kate Saenko \
+    > <font color=Gray>**Organization(s)**:</font> Boston University; POSTECH; MIT-IBM Watson AI Lab \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Collaborative Unsupervised Visual Representation Learning from Decentralized Data (**FedU** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Zhuang_Collaborative_Unsupervised_Visual_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang, Shuai Yi \
+    > <font color=Gray>**Organization(s)**:</font> S-Lab, Nanyang Technological University; Nanyang Technological University; SenseTime Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Weakly Supervised Contrastive Learning (**WCL** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Weakly_Supervised_Contrastive_Learning_ICCV_2021_paper.pdf) [[code]](https://github.com/KyleZheng1997/WCL) 
+    > <font color=Gray>**Author(s)**:</font> Mingkai Zheng, Fei Wang, Shan You, Chen Qian, Changshui Zhang, Xiaogang Wang, Chang Xu \
+    > <font color=Gray>**Organization(s)**:</font> SenseTime Research; University of Science and Technology of China; Tsinghua University; The Chinese University of Hong Kong; The University of Sydney \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Self-Supervised Representation Learning from Flow Equivariance (**FlowE** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiong_Self-Supervised_Representation_Learning_From_Flow_Equivariance_ICCV_2021_paper.pdf) [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xiong_Self-Supervised_Representation_Learning_ICCV_2021_supplemental.zip)
+    > <font color=Gray>**Author(s)**:</font> Yuwen Xiong, Mengye Ren, Wenyuan Zeng, Raquel Urtasun \
+    > <font color=Gray>**Organization(s)**:</font> Waabi; University of Toronto \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- Vi2CLR: Video and Image for Visual Contrastive Learning of Representation (**Vi2CLR** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Diba_Vi2CLR_Video_and_Image_for_Visual_Contrastive_Learning_of_Representation_ICCV_2021_paper.pdf) [[~~No code~~]]() 
+    > <font color=Gray>**Author(s)**:</font> Ali Diba, Vivek Sharma, Reza Safdari, Dariush Lotfi, Saquib Sarfraz, Rainer Stiefelhagen, Luc Van Gool \
+    > <font color=Gray>**Organization(s)**:</font>  KU Leuven; Sensifai; Karlsruhe Institute of Technology; Daimler TSS; Massachusetts Institute of Technology; Harvard Medical School; ETH Zurich \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- Solving Inefficiency of Self-supervised Representation Learning (**truncated triplet** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Solving_Inefficiency_of_Self-Supervised_Representation_Learning_ICCV_2021_paper.pdf) [[code]](https://github.com/wanggrun/triplet) 
+    > <font color=Gray>**Author(s)**:</font> Guangrun Wang, Keze Wang, Guangcong Wang, Philip H.S. Torr, Liang Lin \
+    > <font color=Gray>**Organization(s)**:</font>  Sun Yat-sen University; University of Oxford; Nanyang Technological University; DarkMatter AI Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- Instance Similarity Learning for Unsupervised Feature Representation (**ISL** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Instance_Similarity_Learning_for_Unsupervised_Feature_Representation_ICCV_2021_paper.pdf) [[code]](https://github.com/ZiweiWangTHU/ISL.git) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_Instance_Similarity_Learning_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Ziwei Wang, Yunsong Wang, Ziyi Wu, Jiwen Lu, Jie Zhou \
+    > <font color=Gray>**Organization(s)**:</font>  Tsinghua University; State Key Lab of Intelligent Technologies and Systems; Beijing National Research Center for Information Science and Technology \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- Improving Contrastive Learning by Visualizing Feature Transformation (**** - <font color="#dd0000">**ICCV**21</font> Oral) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Contrastive_Learning_by_Visualizing_Feature_Transformation_ICCV_2021_paper.pdf) [[code]](https://github.com/DTennant/CL-Visualizing-Feature-Transformation) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Zhu_Improving_Contrastive_Learning_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Rui Zhu, Bingchen Zhao, Jingen Liu, Zhenglong Sun, Chang Wen Chen \
+    > <font color=Gray>**Organization(s)**:</font>   The Chinese University of HongKong, Shenzhen; JD AI Research; Tongji University; The Hong Kong Polytechnic University \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- Temporal Knowledge Consistency for Unsupervised Visual Representation Learning (**TKC** - <font color="#dd0000">**ICCV**21</font> Oral) [[paperhttps://openaccess.thecvf.com/content/ICCV2021/papers/Feng_Temporal_Knowledge_Consistency_for_Unsupervised_Visual_Representation_Learning_ICCV_2021_paper.pdf [[~~No code~~]]() [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Feng_Temporal_Knowledge_Consistency_ICCV_2021_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Weixin Feng, Yuanjiang Wang, Lihua Ma, Ye Yuan, Chi Zhang \
+    > <font color=Gray>**Organization(s)**:</font>   Beijing University of Posts and Telecommunications; Megvii Technology \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
+
+- Concurrent Discrimination and Alignment for Self-Supervised Feature Learning (**CODIAL** - <font color="#dd0000">**ICCVW**21</font>) [[paper]](https://ieeexplore.ieee.org/document/9607472) [[code]](https://github.com/AnjanDutta/codial)
+    > <font color=Gray>**Author(s)**:</font> Anjan Dutta, Massimiliano Mancini, Zeynep Akata \
+    > <font color=Gray>**Organization(s)**:</font>   1University of Exeter; University of T¨ubingen \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>
 
 ## 2020
 
