@@ -594,6 +594,36 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Revisiting
 
+- Local Aggregation for Unsupervised Learning of Visual Embeddings (**LA** - <font color="#dd0000">**ICCV**19</font> Oral) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhuang_Local_Aggregation_for_Unsupervised_Learning_of_Visual_Embeddings_ICCV_2019_paper.pdf) [[code]](https://github.com/neuroailab/LocalAggregation) [[supp]](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zhuang_Local_Aggregation_for_ICCV_2019_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Chengxu Zhuang, Alex Lin Zhai, Daniel Yamins \
+    > <font color=Gray>**Organization(s)**:</font> Stanford University \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- S4L: Self-Supervised Semi-Supervised Learning (**S4L** - <font color="#dd0000">**ICCV**19</font>) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhai_S4L_Self-Supervised_Semi-Supervised_Learning_ICCV_2019_paper.pdf) [[code]](https://github.com/google-research/s4l) [[supp]](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zhai_S4L_Self-Supervised_Semi-Supervised_ICCV_2019_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer \
+    > <font color=Gray>**Organization(s)**:</font> Google Research, Brain Team \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- AVT: Unsupervised Learning of Transformation Equivariant Representations by Autoencoding Variational Transformations (**AVT** - <font color="#dd0000">**ICCV**19</font>) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_AVT_Unsupervised_Learning_of_Transformation_Equivariant_Representations_by_Autoencoding_Variational_ICCV_2019_paper.pdf) [[code]](https://github.com/maple-research-lab/AVT-pytorch) [[supp]](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Qi_AVT_Unsupervised_Learning_ICCV_2019_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Guo-Jun Qi, Liheng Zhang, Chang Wen Chen, Qi Tian \
+    > <font color=Gray>**Organization(s)**:</font> G1Laboratory for MAchine Perception and LEarning (MAPLE); Huawei Cloud; Huawei Noah’s Ark Lab;  The Chinese University of Hong Kong at Shenzhen and Peng Cheng Laboratory \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Self-Supervised Representation Learning via Neighborhood-Relational Encoding (**NRE** - <font color="#dd0000">**ICCV**19</font>) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sabokrou_Self-Supervised_Representation_Learning_via_Neighborhood-Relational_Encoding_ICCV_2019_paper.pdf) [[~~No code~~]]() 
+    > <font color=Gray>**Author(s)**:</font> Mohammad Sabokrou, Mohammad Khalooei, Ehsan Adeli \
+    > <font color=Gray>**Organization(s)**:</font> Institute for Research in Fundamental Sciences; Amirkabir University of Tech.; Stanford University \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Unsupervised Pre-Training of Image Features on Non-Curated Data (**DeeperCluster** - <font color="#dd0000">**ICCV**19</font>) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Caron_Unsupervised_Pre-Training_of_Image_Features_on_Non-Curated_Data_ICCV_2019_paper.pdf) [[code]](https://github.com/facebookresearch/DeeperCluster) [[supp]](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Caron_Unsupervised_Pre-Training_of_ICCV_2019_supplemental.pdf)
+    > <font color=Gray>**Author(s)**:</font> Mathilde Caron, Piotr Bojanowski, Julien Mairal, Armand Joulin \
+    > <font color=Gray>**Organization(s)**:</font> Facebook AI Research; Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
 ## 2018
 
 - Unsupervised Feature Learning via Non-Parametric Instance Discrimination ( **InsDis** - <font color="#dd0000">**CVPR**18</font> Spotlight) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.pdf) [[code]](https://github.com/zhirongw/lemniscate.pytorch)
