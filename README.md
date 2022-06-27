@@ -6,7 +6,7 @@
 Unsupervised visual representation learning (UVRL) aims at learning generic representations for the initialization of downstream tasks. 
 As stated in MoCo, self-supervised learning is a form of unsupervised learning and their distinction is informal in the existing literature. Therefore, it is more inclined to be called UVRL here. So, which one do you prefer?
 
-We list related papers from conferences and journals such as **CVPR**, **ICCV**, **ECCV**, **ICLR**, **ICML**, **NeurIPS**, **AAAI**, **TPAMI**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
+We list related papers from conferences and journals such as **[CVPR](https://openaccess.thecvf.com/menu)**, **[ICCV](https://openaccess.thecvf.com/menu)**, **[ECCV](https://www.ecva.net/)**, **[ICLR](https://openreview.net/group?id=ICLR.cc&referrer=%5BHomepage%5D(%2F))**, **[ICML](https://proceedings.mlr.press/)**, **[NeurIPS](https://nips.cc/)**, **AAAI**, **TPAMI**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
 
 Note that only image-level representation learning methods are listed in this repository. Video-level self-supervision and multi-modal self-supervision are to be sorted out.
 
@@ -555,6 +555,37 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font>  Analysis
 
+- SCAN: Learning to Classify Images without Labels (**SCAN** - <font color="#dd0000">**ECCV**20</font>) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_16) [[code]](https://github.com/wvangansbeke/Unsupervised-Classification) [[arxiv]](https://arxiv.org/abs/2005.12320)
+    > <font color=Gray>**Author(s)**:</font> Wouter Van Gansbeke, Simon Vandenhende, Stamatios Georgoulis, Marc Proesmans, Luc Van Gool \
+    > <font color=Gray>**Organization(s)**:</font> KU Leuven/ESAT-PSI; ETH Zurich/CVL, TRACE \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>  
+
+- Contrastive Multiview Coding (**CMC** - <font color="#dd0000">**ECCV**20</font>) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_45) [[code]](http://github.com/HobbitLong/CMC/) [[arxiv]](https://arxiv.org/abs/1906.05849)
+    > <font color=Gray>**Author(s)**:</font> Yonglong Tian, Dilip Krishnan, Phillip Isola \
+    > <font color=Gray>**Organization(s)**:</font> MIT CSAIL; Google Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>  
+
+- Mitigating Embedding and Class Assignment Mismatch in Unsupervised Image Classification (**** - <font color="#dd0000">**ECCV**20</font>) [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690749.pdf) [[code]](https://github.com/dscig/TwoStageUC) [[~~No arxiv~~]]()
+    > <font color=Gray>**Author(s)**:</font> 	Sungwon Han, Sungwon Park, Sungkyu Park, Sundong Kim, Meeyoung Cha \
+    > <font color=Gray>**Organization(s)**:</font> Korea Advanced Institute of Science and Technology; Data Science Group, Institute for Basic Science \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>  
+
+- Unsupervised Deep Metric Learning with Transformed Attention Consistency and Contrastive Clustering Loss (**** - <font color="#dd0000">**ECCV**20</font>) [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560137.pdf) [[~~No code~~]]() 
+    > <font color=Gray>**Author(s)**:</font> Yang Li, Shichao Kan, Zhihai He	 \
+    > <font color=Gray>**Organization(s)**:</font> University of Missouri; Beijing Jiaotong University \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font>  
+
+- Unsupervised Image Classification for Deep
+Representation Learning (**** - <font color="#dd0000">**ECCVW**20</font>) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-66096-3_30) [[~~No code~~]]() [[arxiv]](https://arxiv.org/abs/2006.11480)
+    > <font color=Gray>**Author(s)**:</font> 	Weijie Chen, Shiliang Pu, Di Xie, Shicai Yang, Yilu Guo, Luojun Lin \
+    > <font color=Gray>**Organization(s)**:</font> Hikvision Research Institute; School of Electronic and Information Engineering, South China University of Technology \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
 
 ## 2019
 
@@ -650,6 +681,12 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> 
 
+- Deep Clustering for Unsupervised Learning of Visual Features ( **DeepCluster** - <font color="#dd0000">**ECCV**18</font>) [[paper]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf) [[code]](https://github.com/facebookresearch/deepcluster) 
+    > <font color=Gray>**Author(s)**:</font> Caron, Mathilde and Bojanowski, Piotr and Joulin, Armand and Douze, Matthijs \
+    > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
 
 ## 2017
 
@@ -691,11 +728,24 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> 
 
-- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles (**Jigsaw** - <font color="#dd0000">**ECCV**16</font> ) [[paper]]() [[unofficial code]](https://github.com/bbrattoli/JigsawPuzzlePytorch)
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles (**Jigsaw** - <font color="#dd0000">**ECCV**16</font> ) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_5) [[unofficial code]](https://github.com/bbrattoli/JigsawPuzzlePytorch) [[arxiv]](https://arxiv.org/abs/1603.09246)
     > <font color=Gray>**Author(s)**:</font> Mehdi Noroozi, Paolo Favaro\
-    > <font color=Gray>**Organization(s)**:</font>  Carnegie Mellon University; University of California, Berkeley\
+    > <font color=Gray>**Organization(s)**:</font> Institute for Informatiks, University of Bern \
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Pretext task
+
+- Unsupervised Visual Representation Learning
+by Graph-based Consistent Constraints (**** - <font color="#dd0000">**ECCV**16</font> ) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_41) [[~~No code~~]]()
+    > <font color=Gray>**Author(s)**:</font> Dong Li, Wei-Chih Hung, Jia-Bin Huang, Shengjin Wang, Narendra Ahuja; Ming-Hsuan Yang \
+    > <font color=Gray>**Organization(s)**:</font> Tsinghua University; University of California, Merced; University of Illinois, Urbana-Champaign \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+- Colorful Image Colorization (**** - <font color="#dd0000">**ECCV**16</font> ) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_40) [[code]](https://github.com/richzhang/colorization)
+    > <font color=Gray>**Author(s)**:</font> Richard Zhang, Phillip Isola, Alexei A. Efros \
+    > <font color=Gray>**Organization(s)**:</font> University of California, Berkeley\
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
 
 ## 2015
 
@@ -729,6 +779,19 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 ***
 
 UVRL is also closely related to some other research directions, such as **Unsupervised Person (Object or Vehicle) Re-Identification**, **Unsupervised Semantic Segmentation**, **Unsupervised Domain Adaptation**, **Knowledge Distillation**, **Deep Clustering**, **Unsupervised Metric (Embedding) Learning**, **Semi-supervised Learning**, **Novel Categories (Classes) Discovery**, etc.
+
+### **Some Influential Repositories**
+- awesome-self-supervised-learning (star 4.9k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
+
+- Awesome-Knowledge-Distillation (star 1.8k) [[link]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
+
+- DeepClustering (star 1.8k) [[link]](https://github.com/zhoushengisnoob/DeepClustering)
+
+- awesome-metric-learning [[link]](https://github.com/qdrant/awesome-metric-learning)
+
+- Awesome-Unsupervised-Person-Re-identification [[link]](https://github.com/Yimin-Liu/Awesome-Unsupervised-Person-Re-identification)
+
+- Awesome-Novel-Class-Discovery [[link]](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery)
 
 ***
 
