@@ -6,7 +6,7 @@
 Unsupervised visual representation learning (UVRL) aims at learning generic representations for the initialization of downstream tasks. 
 As stated in MoCo, self-supervised learning is a form of unsupervised learning and their distinction is informal in the existing literature. Therefore, it is more inclined to be called UVRL here. So, which one do you prefer?
 
-We list related papers from conferences and journals such as **[CVPR](https://openaccess.thecvf.com/menu)**, **[ICCV](https://openaccess.thecvf.com/menu)**, **[ECCV](https://www.ecva.net/)**, **[ICLR](https://openreview.net/group?id=ICLR.cc&referrer=%5BHomepage%5D(%2F))**, **[ICML](https://proceedings.mlr.press/)**, **[NeurIPS](https://nips.cc/)**, **AAAI**, **TPAMI**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
+We list related papers from conferences and journals such as **[CVPR](https://openaccess.thecvf.com/menu)**, **[ICCV](https://openaccess.thecvf.com/menu)**, **[ECCV](https://www.ecva.net/)**, **[ICLR](https://openreview.net/group?id=ICLR.cc&referrer=%5BHomepage%5D(%2F))**, **[ICML](https://proceedings.mlr.press/)**, **[NeurIPS](https://nips.cc/)**, **[AAAI](https://aaai.org/Library/conferences-library.php)**, **[TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
 
 Note that only image-level representation learning methods are listed in this repository. Video-level self-supervision and multi-modal self-supervision are to be sorted out.
 
@@ -218,6 +218,18 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 - Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer (**** - <font color="#dd0000">**CVPRW**22</font>?) [[paper]](https://arxiv.org/abs/2206.00481) [[code]](https://github.com/guglielmocamporese/relvit)
     > <font color=Gray>**Author(s)**:</font> Guglielmo Camporese, Elena Izzo, Lamberto Ballan \
     > <font color=Gray>**Organization(s)**:</font>  University of Padova, Italy\
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font> 
+
+- Deeply Unsupervised Patch Re-Identification for Pre-training Object Detectors (**DUPR** - <font color="#dd0000">**TPAMI**22</font>) [[paper]](https://ieeexplore.ieee.org/document/9749837) [[~~No code~~]]()
+    > <font color=Gray>**Author(s)**:</font> Jian Ding, Enze Xie, Hang Xu, Chenhan Jiang, Zhenguo Li, Ping Luo, Guidong Xia \
+    > <font color=Gray>**Organization(s)**:</font> Wuhan University; Huawei Noah’s Ark Lab; University of Hong Kong\
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font> 
+
+- Learning Generalized Transformation Equivariant Representations Via AutoEncoding Transformations (**** - <font color="#dd0000">**TPAMI**22</font>) [[paper]](https://ieeexplore.ieee.org/document/9219238) [[~~No code~~]]()
+    > <font color=Gray>**Author(s)**:</font> Guo-Jun Qi, Liheng Zhang, Feng Lin, Xiao Wang \
+    > <font color=Gray>**Organization(s)**:</font> Futurewei Seattle Cloud Lab; University of Central Florida; University of Science and Technology of China; Purdue University \
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
 
