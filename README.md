@@ -793,7 +793,7 @@ by Graph-based Consistent Constraints (**** - <font color="#dd0000">**ECCV**16</
 UVRL is also closely related to some other research directions, such as **Unsupervised Person (Object or Vehicle) Re-Identification**, **Unsupervised Semantic Segmentation**, **Unsupervised Domain Adaptation**, **Knowledge Distillation**, **Deep Clustering**, **Unsupervised Metric (Embedding) Learning**, **Semi-supervised Learning**, **Novel Categories (Classes) Discovery**, etc.
 
 ### **Some Influential Repositories**
-- awesome-self-supervised-learning (star 4.9k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
+- awesome-self-supervised-learning (star 5.0k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
 
 - Awesome-Knowledge-Distillation (star 1.8k) [[link]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 
