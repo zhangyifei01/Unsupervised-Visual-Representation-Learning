@@ -1,5 +1,5 @@
-# Unsupervised-Visual-Representation-Learning 
-## 无监督视觉表示学习
+# Unsupervised/Self-Supervised-Visual-Representation-Learning 
+## 无监督/自监督视觉表示学习
 
 **[ Updating ...... ]**
 
@@ -16,6 +16,73 @@ Note that only image-level representation learning methods are listed in this re
 
 
 ## 2022
+- Decoupled Contrastive Learning (**DCL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2110.06848) 
+    > <font color=Gray>**Author(s)**:</font> Chun-Hsiao Yeh, Cheng-Yao Hong, Yen-Chi Hsu, Tyng-Luh Liu, Yubei Chen, Yann LeCun \
+    > <font color=Gray>**Organization(s)**:</font>  IIS, Academia Sinica; UC Berkeley; National Taiwan University; Meta AI Research; New York University\
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font> 
+
+- Equivariance and Invariance Inductive Bias for
+Learning from Insufficient Data (**EqInv** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2207.12258) [[code]](https://github.com/Wangt-CN/EqInv)
+    > <font color=Gray>**Author(s)**:</font> Tan Wang, Qianru Sun, Sugiri Pranata, Karlekar Jayashree, Hanwang Zhang \
+    > <font color=Gray>**Organization(s)**:</font>  Nanyang Technological University; Singapore Management University; Panasonic R&D Center Singapore\
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font> 
+
+- Fast-MoCo: Boost Momentum-based Contrastive Learning with Combinatorial Patches (**Fast-MoCo** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2207.08220) 
+    > <font color=Gray>**Author(s)**:</font> Yuanzheng Ci, Chen Lin, Lei Bai, Wanli Ouyang \
+    > <font color=Gray>**Organization(s)**:</font>  The University of Sydney; University of Oxford; Shanghai AI Laboratory\
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font> 
+
+- Unsupervised Visual Representation Learning by Synchronous Momentum Grouping (**SMoG** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2207.06167) 
+    > <font color=Gray>**Author(s)**:</font> Bo Pang, Yifan Zhang, Yaoyi Li, Jia Cai, Cewu Lu \
+    > <font color=Gray>**Organization(s)**:</font>  Shanghai Jiao Tong University; HuaWei \
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font> 
+
+- Self-Supervision Can Be a Good Few-Shot Learner (**UniSiam** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2207.09176) 
+    > <font color=Gray>**Author(s)**:</font> Yuning Lu, Liangjian Wen, Jianzhuang Liu, Yajing Liu, Xinmei Tian \
+    > <font color=Gray>**Organization(s)**:</font>  University of Science and Technology of China; Huawei Noah’s Ark Lab; Hefei Comprehensive National Science Center \
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font>  few-shot
+
+- ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images (**ConCL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2207.06733) 
+    > <font color=Gray>**Author(s)**:</font> Jiawei Yang, Hanbo Chen, Yuan Liang, Junzhou Huang, Lei He, Jianhua Yao \
+    > <font color=Gray>**Organization(s)**:</font>  Tencent AI Lab; UCLA; University of Texas at Arlington \
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font>  dense, medical
+
+- Dense Siamese Network for Dense Unsupervised Learning (**DenseSiam** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2203.11075) [[code]](https://github.com/ZwwWayne/DenseSiam)
+    > <font color=Gray>**Author(s)**:</font> Wenwei Zhang, Jiangmiao Pang, Kai Chen, Chen Change Loy \
+    > <font color=Gray>**Organization(s)**:</font> Nanyang Technological University; Shanghai AI Laboratory; SenseTime Research \
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font>  dense
+
+- Bootstrapped Masked Autoencoders for Vision BERT Pretraining (**BootMAE** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2207.07116) [[code]](https://github.com/LightDXY/BootMAE)
+    > <font color=Gray>**Author(s)**:</font> Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu \
+    > <font color=Gray>**Organization(s)**:</font> University of Science and Technology of China; Microsoft Research Asia; Microsoft Cloud + AI \
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font>  transformer
+
+- SdAE: Self-distillated Masked Autoencoder (**SdAE** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2208.00449) [[code]](https://github.com/AbrahamYabo/SdAE)
+    > <font color=Gray>**Author(s)**:</font> Yabo Chen, Yuchen Liu, Dongsheng Jiang, Xiaopeng Zhang, Wenrui Dai, Hongkai Xiong, Qi Tian \
+    > <font color=Gray>**Organization(s)**:</font>  Shanghai Jiao Tong University; Huawei Cloud EI \
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font>  transformer
+
+- Contrastive Vision-Language Pre-training with Limited Resources (**ZeroVL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2112.09331) [[code]](https://github.com/zerovl/ZeroVL)
+    > <font color=Gray>**Author(s)**:</font> Quan Cui, Boyan Zhou, Yu Guo, Weidong Yin, Hao Wu, Osamu Yoshie, Yubo Chen \
+    > <font color=Gray>**Organization(s)**:</font>  ByteDance; Waseda University \
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font>  VL
+
+- Tailoring Self-Supervision for Supervised Learning (**LoRot** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2207.10023) [[code]](https://github.com/wjun0830/Localizable-Rotation)
+    > <font color=Gray>**Author(s)**:</font> WonJun Moon, Ji-Hwan Kim, Jae-Pil Heo \
+    > <font color=Gray>**Organization(s)**:</font>  Sungkyunkwan University \
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font>  supervised
+
 - Masked Autoencoders Are Scalable Vision Learners (**MAE** - <font color="#dd0000">**CVPR**22</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) [[code]](https://github.com/facebookresearch/mae) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/He_Masked_Autoencoders_Are_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick \
     > <font color=Gray>**Organization(s)**:</font>  Facebook AI Research (FAIR)\
@@ -50,7 +117,7 @@ Note that only image-level representation learning methods are listed in this re
     > <font color=Gray>**Author(s)**:</font> Yuanfan Guo, Minghao Xu, Jiawen Li, Bingbing Ni, Xuanyu Zhu, Zhenbang Sun, Yi Xu \
     > <font color=Gray>**Organization(s)**:</font> MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University; 2Mila - Qu´ebec AI Institute, University of Montr´eal; ByteDance\
     > <font color=Gray>**Description**:</font>  \
-    > <font color=Gray>**Tags**:</font> 
+    > <font color=Gray>**Tags**:</font> Clustering
 
 - Unsupervised Representation Learning for Binary Networks by Joint Classifier Learning (**BURN** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Unsupervised_Representation_Learning_for_Binary_Networks_by_Joint_Classifier_Learning_CVPR_2022_paper.pdf) [[code]](https://github.com/naver-ai/burn) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Kim_Unsupervised_Representation_Learning_CVPR_2022_supplemental.pdf)
     > <font color=Gray>**Author(s)**:</font> Dahyun Kim, Jonghyun Choi \
@@ -667,6 +734,14 @@ Representation Learning (**** - <font color="#dd0000">**ECCVW**20</font>) [[pape
     > <font color=Gray>**Description**:</font>   \
     > <font color=Gray>**Tags**:</font> Clustering
 
+- Scaling and Benchmarking Self-Supervised Visual Representation Learning (**** - <font color="#dd0000">**ICCV**19</font>) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Goyal_Scaling_and_Benchmarking_Self-Supervised_Visual_Representation_Learning_ICCV_2019_paper.pdf) [[code]](https://github.com/facebookresearch/fair_self_supervision_benchmark) 
+    > <font color=Gray>**Author(s)**:</font> Priya Goyal, Dhruv Mahajan, Abhinav Gupta, Ishan Misra \
+    > <font color=Gray>**Organization(s)**:</font> Facebook AI Research \
+    > <font color=Gray>**Description**:</font>   \
+    > <font color=Gray>**Tags**:</font> 
+
+  
+
 ## 2018
 
 - Unsupervised Feature Learning via Non-Parametric Instance Discrimination ( **InsDis** - <font color="#dd0000">**CVPR**18</font> Spotlight) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.pdf) [[code]](https://github.com/zhirongw/lemniscate.pytorch)
@@ -808,3 +883,7 @@ UVRL is also closely related to some other research directions, such as **Unsupe
 ***
 
 Thanks for the support of Prof. [Yu Zhou](https://people.ucas.ac.cn/~yuzhou).
+
+
+
+
