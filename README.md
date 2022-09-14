@@ -28,6 +28,13 @@ Learning from Insufficient Data (**EqInv** - <font color="#dd0000">**ECCV**22</f
     > <font color=Gray>**Organization(s)**:</font>  Nanyang Technological University; Singapore Management University; Panasonic R&D Center Singapore\
     > <font color=Gray>**Description**:</font>  \
     > <font color=Gray>**Tags**:</font> 
+    
+- Equivariance and Invariance Inductive Bias for
+Learning from Insufficient Data (**EqInv** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2207.12258) [[code]](https://github.com/Wangt-CN/EqInv)
+    > <font color=Gray>**Author(s)**:</font> Tan Wang, Qianru Sun, Sugiri Pranata, Karlekar Jayashree, Hanwang Zhang \
+    > <font color=Gray>**Organization(s)**:</font>  Nanyang Technological University; Singapore Management University; Panasonic R&D Center Singapore\
+    > <font color=Gray>**Description**:</font>  \
+    > <font color=Gray>**Tags**:</font> 
 
 - Fast-MoCo: Boost Momentum-based Contrastive Learning with Combinatorial Patches (**Fast-MoCo** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2207.08220) 
     > <font color=Gray>**Author(s)**:</font> Yuanzheng Ci, Chen Lin, Lei Bai, Wanli Ouyang \
