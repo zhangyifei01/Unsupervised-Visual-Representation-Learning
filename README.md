@@ -8,7 +8,7 @@ As stated in MoCo, self-supervised learning is a form of unsupervised learning a
 
 We list related papers from conferences and journals such as **[CVPR](https://openaccess.thecvf.com/menu)**, **[ICCV](https://openaccess.thecvf.com/menu)**, **[ECCV](https://www.ecva.net/)**, **[ICLR](https://openreview.net/group?id=ICLR.cc&referrer=%5BHomepage%5D(%2F))**, **[ICML](https://proceedings.mlr.press/)**, **[NeurIPS](https://nips.cc/)**, **[AAAI](https://aaai.org/Library/conferences-library.php)**, **[TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
 
-Note that only image-level representation learning methods are listed in this repository. Video-level self-supervision and multi-modal self-supervision are to be sorted out.
+Note that only image-level representation learning methods are listed in this repository. [Video-level self-supervision](https://github.com/zhangyifei01/Self-supervised-Video-Representation-Learning) and multi-modal self-supervision are to be sorted out.
 
 **Key words:** Unsupervised learning, self-supervised learning, representation learning, pre-training, transfer learning, contrastive learning, pretext task
 
