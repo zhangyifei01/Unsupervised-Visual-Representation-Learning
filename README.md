@@ -16,17 +16,8 @@ Note that only image-level representation learning methods are listed in this re
 
 
 ## 2022    </details>
-***
-- Position Prediction as an Effective Pretraining Strategy (**MP3** - <font color="#dd0000">**ICML**22</font>) [[paper]](https://proceedings.mlr.press/v162/zhai22a/zhai22a.pdf) 
-    <details> 
-    <summary><font size=2>More Info</font></summary>
-        <font color=Gray> <b>· · Author(s)</b>:</font> Shuangfei Zhai, Navdeep Jaitly, Jason Ramapuram, Dan Busbridge, Tatiana Likhomanenko, Joseph Y Cheng, Walter Talbott, Chen Huang, Hanlin Goh, Joshua M Susskind  <br>
-    <font color=Gray><b>· · Organization(s)</b>:</font>  Apple Inc. <br>
-    <font color=Gray><b>· · Description</b>: </font>  <br>
-    <font color=Gray><b>· · Tags</b>: </font> Transformer
-    </details>
 
-******
+***
 - Decoupled Contrastive Learning (**DCL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2110.06848) 
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -126,6 +117,37 @@ Learning from Insufficient Data (**EqInv** - <font color="#dd0000">**ECCV**22</f
     <font color=Gray><b>· · Description</b>:</font>  <br>
     <font color=Gray><b>· · Tags</b>:</font>  supervised
     </details>
+
+***
+- Position Prediction as an Effective Pretraining Strategy (**MP3** - <font color="#dd0000">**ICML**22</font>) [[paper]](https://proceedings.mlr.press/v162/zhai22a/zhai22a.pdf) 
+    <details> 
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray> <b>· · Author(s)</b>:</font> Shuangfei Zhai, Navdeep Jaitly, Jason Ramapuram, Dan Busbridge, Tatiana Likhomanenko, Joseph Y Cheng, Walter Talbott, Chen Huang, Hanlin Goh, Joshua M Susskind  <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Apple Inc. <br>
+    <font color=Gray><b>· · Description</b>: </font>  <br>
+    <font color=Gray><b>· · Tags</b>: </font> Transformer
+    </details>
+
+***
+- BEiT: BERT Pre-Training of Image Transformers  (**BEiT** - <font color="#dd0000">**ICLR**22 Oral</font>) [[paper]](https://openreview.net/pdf?id=p-BhZSz59o4) [[code]](https://github.com/microsoft/unilm)
+    <details> 
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray> <b>· · Author(s)</b>:</font> Hangbo Bao, Li Dong, Songhao Piao, Furu Wei  <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Harbin Institute of Technology; Microsoft Research <br>
+    <font color=Gray><b>· · Description</b>: </font>  <br>
+    <font color=Gray><b>· · Tags</b>: </font> Transformer
+    </details>
+
+***
+- Efficient Self-supervised Vision Transformers for Representation Learning  (**EsViT** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/pdf?id=fVu3o-YUGQK) [[code]](https://github.com/microsoft/esvit)
+    <details> 
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray> <b>· · Author(s)</b>:</font> Hangbo Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, Lu Yuan, Jianfeng Gao  <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Microsoft Research at Redmond; Microsoft Cloud + AI <br>
+    <font color=Gray><b>· · Description</b>: </font>  <br>
+    <font color=Gray><b>· · Tags</b>: </font> Transformer
+    </details>
+
 ***
 - Masked Autoencoders Are Scalable Vision Learners (**MAE** - <font color="#dd0000">**CVPR**22</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) [[code]](https://github.com/facebookresearch/mae) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/He_Masked_Autoencoders_Are_CVPR_2022_supplemental.pdf)
     <details>
@@ -453,6 +475,16 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     </details>
 
 ## 2021
+
+***
+- MST: Masked Self-Supervised Transformer for Visual Representation (**MST** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/file/6dbbe6abe5f14af882ff977fc3f35501-Paper.pdf) [[supp]](https://proceedings.neurips.cc/paper/2021/file/6dbbe6abe5f14af882ff977fc3f35501-Supplemental.zip)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Zhaowen Li, Zhiyang Chen, Fan Yang, Wei Li, Yousong Zhu, Chaoyang Zhao, Rui Deng, Liwei Wu, Rui Zhao, Ming Tang, Jinqiao Wang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>   Institute of Automation, CAS; UCAS; SenseTime Research; UCLA<br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font> Transformer, MIM
+    </details>
 
 ***
 - Exploring Simple Siamese Representation Learning (**SimSiam** - <font color="#dd0000">**CVPR**21</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/facebookresearch/simsiam) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Chen_Exploring_Simple_Siamese_CVPR_2021_supplemental.pdf)
