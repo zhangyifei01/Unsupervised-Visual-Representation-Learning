@@ -182,7 +182,7 @@ Learning from Insufficient Data (**EqInv** - <font color="#dd0000">**ECCV**22</f
     <font color=Gray><b>· · Author(s)</b>:</font> Sucheng Ren, Huiyu Wang, Zhengqi Gao, Shengfeng He, Alan Yuille, Yuyin Zhou, Cihang Xie<br>
     <font color=Gray><b>· · Organization(s)</b>:</font> South China University of Technology; Johns Hopkins University; Massachusetts Institute of Technology; UC Santa Cruz<br>
     <font color=Gray><b>· · Description</b>:</font>  <br>
-    <font color=Gray><b>· · Tags</b>:</font> 
+    <font color=Gray><b>· · Tags</b>:</font> Interpolation
     </details>
 ***
 - On the Importance of Asymmetry for Siamese Representation Learning (**asym-siam** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_On_the_Importance_of_Asymmetry_for_Siamese_Representation_Learning_CVPR_2022_paper.pdf) [[code]](https://github.com/facebookresearch/asym-siam) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_On_the_Importance_CVPR_2022_supplemental.pdf)
@@ -275,7 +275,7 @@ Learning from Insufficient Data (**EqInv** - <font color="#dd0000">**ECCV**22</f
     <font color=Gray><b>· · Tags</b>:</font> 
     </details>
 ***
-- Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo (**DT** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Dual_Temperature_Helps_Contrastive_Learning_Without_Many_Negative_Samples_Towards_CVPR_2022_paper.pdf) [[code]](https://bit.ly/3LkQbaT) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhang_Dual_Temperature_Helps_CVPR_2022_supplemental.pdf)
+- Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo (**DT** - <font color="#dd0000">**CVPR**22</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Dual_Temperature_Helps_Contrastive_Learning_Without_Many_Negative_Samples_Towards_CVPR_2022_paper.pdf) [[code]](https://github.com/ChaoningZhang/Dual-temperature) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhang_Dual_Temperature_Helps_CVPR_2022_supplemental.pdf)
     <details>
     <summary><font size=2>More Info</font></summary>
     <font color=Gray><b>· · Author(s)</b>:</font> Chaoning Zhang, Kang Zhang, Trung X. Pham, Axi Niu, Zhinan Qiao, Chang D. Yoo, In So Kweon <br>
@@ -539,6 +539,15 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     <font color=Gray><b>· · Organization(s)</b>:</font>  Shanghai Jiao Tong University; Johns Hopkins University; Peking University; MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University <br>
     <font color=Gray><b>· · Description</b>:</font>   <br>
     <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
+- Unsupervised Pre-training for Person Re-identification (**** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Unsupervised_Pre-Training_for_Person_Re-Identification_CVPR_2021_paper.pdf) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Dengpan Fu, Dongdong Chen, Jianmin Bao, Hao Yang, Lu Yuan, Lei Zhang, Houqiang Li, Dong Chen <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  University of Science and Technology of China; Microsoft Research <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Dataset
     </details>
 ***
 - Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning (**PixPro** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Propagate_Yourself_Exploring_Pixel-Level_Consistency_for_Unsupervised_Visual_Representation_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/zdaxie/PixPro)
@@ -922,6 +931,16 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 ## 2020
 
 ***
+- Improved Baselines with Momentum Contrastive Learning (**MoCo v2** - <font color="#dd0000">**arXiv**20</font>) [[paper]](https://arxiv.org/pdf/2003.04297) [[code]](https://github.com/facebookresearch/moco) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Xinlei Chen, Haoqi Fan, Ross Girshick, Kaiming He <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Facebook AI Research (FAIR)<br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> InfoNCE loss, siamese architecture
+    </details>
+
+***
 - Momentum Contrast for Unsupervised Visual Representation Learning (**MoCo** - <font color="#dd0000">**CVPR**20</font> Oral) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) [[code]](https://github.com/facebookresearch/moco) [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/He_Momentum_Contrast_for_CVPR_2020_supplemental.pdf)
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -994,7 +1013,7 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     <font color=Gray><b>· · Tags</b>:</font>  
     </details>
 ***
-- Contrastive Multiview Coding (**CMC** - <font color="#dd0000">**ECCV**20</font>) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_45) [[code]](http://github.com/HobbitLong/CMC/) [[arxiv]](https://arxiv.org/abs/1906.05849)
+- Contrastive Multiview Coding (**CMC** - <font color="#dd0000">**ECCV**20</font>) [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560749.pdf) [[code]](http://github.com/HobbitLong/CMC/) [[arxiv]](https://arxiv.org/abs/1906.05849)
     <details>
     <summary><font size=2>More Info</font></summary>
     <font color=Gray><b>· · Author(s)</b>:</font> Yonglong Tian, Dilip Krishnan, Phillip Isola <br>
@@ -1181,7 +1200,7 @@ Representation Learning (**** - <font color="#dd0000">**ECCVW**20</font>) [[pape
     <font color=Gray><b>· · Author(s)</b>:</font> Mehdi Noroozi, Ananth Vinjimoor, Paolo Favaro, Hamed Pirsiavash <br>
     <font color=Gray><b>· · Organization(s)</b>:</font> University of Bern; University of Maryland, Baltimore County <br>
     <font color=Gray><b>· · Description</b>:</font>   <br>
-    <font color=Gray><b>· · Tags</b>:</font> 
+    <font color=Gray><b>· · Tags</b>:</font> Self-supervised Distillation
     </details>
 ***
 - Deep Clustering for Unsupervised Learning of Visual Features ( **DeepCluster** - <font color="#dd0000">**ECCV**18</font>) [[paper]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf) [[code]](https://github.com/facebookresearch/deepcluster) 
