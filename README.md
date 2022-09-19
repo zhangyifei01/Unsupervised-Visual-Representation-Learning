@@ -15,7 +15,125 @@ Note that only image-level representation learning methods are listed in this re
 **关键词：** 无监督学习，自监督学习，表示学习，预训练，迁移学习，对比学习，借口（代理）任务
 
 
-## 2022    </details>
+## 2022   
+
+***
+- An Empirical Study on Disentanglement of Negative-free Contrastive Learning (**** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2206.04756) [[code]](https://github.com/noahcao/disentanglement_lib_med)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Jinkun Cao, Ruiqian Nai, Qing Yang, Jialei Huang, Yang Gao <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Carnegie Mellon University; Tsinghua University; Shanghai Jiao Tong University; Shanghai Qi-Zhi Institute <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis
+    </details>
+***
+- Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Local Spectral Embedding Methods (**** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2205.11508) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Randall Balestriero, Yann LeCun <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Meta AI Research; NYU <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis
+    </details>
+***
+- The Mechanism of Prediction Head in Non-contrastive Self-supervised Learning (**** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2205.06226) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> RZixin Wen, Yuanzhi Li <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Carnegie Mellon University <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis
+    </details>
+***
+- Improving Self-Supervised Learning by Characterizing Idealized Representations (**** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2209.06235) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Yann Dubois, Tatsunori Hashimoto, Stefano Ermon, Percy Liang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Stanford University <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- MSR: Making Self-supervised learning Robust to Aggressive Augmentations (**MSR** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2206.01999) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Yingbin Bai, Erkun Yang, Zhaoqing Wang, Yuxuan Du, Bo Han, Cheng Deng, Dadong Wang, Tongliang Liu <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  TML Lab, The University of Sydney; Xidian University; JD Explore Academy; Hong Kong Baptist University; CSIRO <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- RényiCL: Contrastive Representation Learning with Skew Rényi Divergence (**RényiCL** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2208.06270) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Kyungmin Lee, Jinwoo Shin <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Korea Advanced Institute of Science and Technology (KAIST) <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- Unsupervised Learning of Group Invariant and Equivariant Representations (**** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2202.07559) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Robin Winter, Marco Bertolini, Tuan Le, Frank Noé, Djork-Arné Clevert <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Bayer AG; Freie Universität Berlin; Microsoft Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- Energy-Based Contrastive Learning of Visual Representations (**** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2202.04933) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Beomsu Kim, Jong Chul Ye <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  KAIST <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- Self-Supervised Visual Representation Learning with Semantic Grouping (**SlotCon** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2205.15288) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Xin Wen, Bingchen Zhao, Anlin Zheng, Xiangyu Zhang, Xiaojuan Qi <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  The University of Hong Kong; Tongji University; LunarAI; MEGVII Technology <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Dense
+    </details>
+***
+- ConvMAE: Masked Convolution Meets Masked Autoencoders (**ConvMAE** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2205.03892)  [[code]](https://github.com/Alpha-VL/ConvMAE)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Peng Gao, Teli Ma, Hongsheng Li, Ziyi Lin, Jifeng Dai, Yu Qiao <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Shanghai AI Laboratory; MMLab, CUHK; SenseTime Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- Green Hierarchical Vision Transformer for Masked Image Modeling (**GreenMIM** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2205.13515)  [[code]](https://github.com/LayneH/GreenMIM)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Lang Huang, Shan You, Mingkai Zheng, Fei Wang, Chen Qian, Toshihiko Yamasaki <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  The University of Tokyo; SenseTime Research; The University of Sydney <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Transformer
+    </details>
+***
+- SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders (**SemMAE** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2206.10207)  
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Gang Li, Heliang Zheng, Daqing Liu, Chaoyue Wang, Bing Su, Changwen Zheng <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Institute of Software, Chinese Academy of Sciences; University of Chinese Academy of Sciences; JD Explore Academy; Renmin University of China<br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Transformer
+    </details>
+***
+- Test-Time Training with Masked Autoencoders (**TTT-MAE** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2209.07522)  
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Yossi Gandelsman, Yu Sun, Xinlei Chen, Alexei A. Efros <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  UC Berkeley; Meta AI <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Transformer
+    </details>
 
 ***
 - Decoupled Contrastive Learning (**DCL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2110.06848) 
@@ -116,6 +234,25 @@ Learning from Insufficient Data (**EqInv** - <font color="#dd0000">**ECCV**22</f
     <font color=Gray><b>· · Organization(s)</b>:</font>  Sungkyunkwan University <br>
     <font color=Gray><b>· · Description</b>:</font>  <br>
     <font color=Gray><b>· · Tags</b>:</font>  supervised
+    </details>
+***
+- DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning (**DisCo** - <font color="#dd0000">**ECCV**22 Oral</font>) [[paper]](https://arxiv.org/abs/2104.09124) [[code]](https://github.com/Yuting-Gao/DisCo-pytorch)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Yuting Gao, Jia-Xin Zhuang, Shaohui Lin, Hao Cheng, Xing Sun, Ke Li, Chunhua Shen <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Tencent Youtu Lab; Hong Kong University of Science and Technology; East China Normal University; Zhejiang University <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Self-supervised Distillation
+    </details>
+
+***
+- Object discovery and representation networks (**Odin** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2203.08777)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Olivier J. Hénaff, Skanda Koppula, Evan Shelhamer, Daniel Zoran, Andrew Jaegle, Andrew Zisserman, João Carreira, Relja Arandjelović <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  TDeepMind <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Dense
     </details>
 
 ***
@@ -881,6 +1018,15 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     <font color=Gray><b>· · Organization(s)</b>:</font> UC Berkeley; UC San Diego   <br>
     <font color=Gray><b>· · Description</b>:</font>   <br>
     <font color=Gray><b>· · Tags</b>:</font>
+    </details>
+***
+- Efficient Visual Pretraining With Contrastive Detection(**DetCon** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Henaff_Efficient_Visual_Pretraining_With_Contrastive_Detection_ICCV_2021_paper.pdf)  [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Henaff_Efficient_Visual_Pretraining_ICCV_2021_supplemental.pdf)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Olivier J. Hénaff, Skanda Koppula, Jean-Baptiste Alayrac, Aaron van den Oord, Oriol Vinyals, João Carreira <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> DeepMind   <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font> Dense
     </details>
 ***
 - An Empirical Study of Training Self-Supervised Vision Transformers(**MoCo-v3** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[unofficial code]](https://github.com/open-mmlab/mmselfsup) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Chen_An_Empirical_Study_ICCV_2021_supplemental.pdf)
