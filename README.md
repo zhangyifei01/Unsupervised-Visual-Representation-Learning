@@ -136,12 +136,21 @@ Note that only image-level representation learning methods are listed in this re
     </details>
 
 ***
+- Understanding Collapse in Non-Contrastive Siamese Representation Learning (**** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2209.15007) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Alexander C. Li, Alexei A. Efros, Deepak Pathakn <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  CMU; UCB<br>
+    <font color=Gray><b>· · Description</b>:</font>  <br> 
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
 - Decoupled Contrastive Learning (**DCL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2110.06848) 
     <details>
     <summary><font size=2>More Info</font></summary>
     <font color=Gray><b>· · Author(s)</b>:</font> Chun-Hsiao Yeh, Cheng-Yao Hong, Yen-Chi Hsu, Tyng-Luh Liu, Yubei Chen, Yann LeCun <br>
     <font color=Gray><b>· · Organization(s)</b>:</font>  IIS, Academia Sinica; UC Berkeley; National Taiwan University; Meta AI Research; New York University<br>
-    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br> 
     <font color=Gray><b>· · Tags</b>:</font> 
     </details>
 ***
@@ -612,6 +621,36 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     </details>
 
 ## 2021
+
+***
+- Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss (**** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/27debb435021eb68b3965290b5e24c49-Abstract.html)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Jeff Z. HaoChen, Colin Wei, Adrien Gaidon, Tengyu Ma <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>   Stanford University; Toyota Research Institute <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+
+***
+- Improving Self-supervised Learning with Automated
+Unsupervised Outlier Arbitration (**UOTA** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/e8855b3528cb03d1def9803220bd3cb9-Abstract.html)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Yu Wang, Jingyang Lin, Jingjing Zou, Yingwei Pan, Ting Yao, Tao Mei <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>   JD AI Research; Sun Yat-sen University; University of California, San Diego <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
+- Compressive Visual Representations (**** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/a29a5ba2cb7bdeabba22de8c83321b46-Abstract.html)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Kuang-Huei Lee, Anurag Arnab, Sergio Guadarrama, John Canny, Ian Fischer <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>   Google Research <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font> Compress
+    </details>
 
 ***
 - MST: Masked Self-Supervised Transformer for Visual Representation (**MST** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/file/6dbbe6abe5f14af882ff977fc3f35501-Paper.pdf) [[supp]](https://proceedings.neurips.cc/paper/2021/file/6dbbe6abe5f14af882ff977fc3f35501-Supplemental.zip)
