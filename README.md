@@ -145,6 +145,15 @@ Note that only image-level representation learning methods are listed in this re
     <font color=Gray><b>· · Tags</b>:</font> 
     </details>
 ***
+- Masked Siamese Networks for Label-Efficient Learning (**MSN** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2204.07141) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Mahmoud Assran, Mathilde Caron, Ishan Misra, Piotr Bojanowski, Florian Bordes, Pascal Vincent, Armand Joulin, Michael Rabbat, Nicolas Ballas <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Facebook AI Research; Mila – Quebec AI Institute; Inria, Univ. Grenoble Alpes; Universite de Montreal; McGill University<br>
+    <font color=Gray><b>· · Description</b>:</font>  <br> 
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
 - Decoupled Contrastive Learning (**DCL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2110.06848) 
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -623,6 +632,26 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 ## 2021
 
 ***
+- ReSSL: Relational Self-Supervised Learning with Weak Augmentation (**ReSSL** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/14c4f36143b4b09cbc320d7c95a50ee7-Abstract.html) [[code]](https://github.com/KyleZheng1997/ReSSL)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Mingkai Zheng, Shan You, Fei Wang, Chen Qian, Changshui Zhang, Xiaogang Wang, Chang Xu <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  SenseTime Research; Tsinghua University; The Chinese University of Hong Kong; The University of Sydney <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+
+***
+- Revitalizing CNN Attention via Transformers in Self-Supervised Visual Representation Learning (**CARE** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/21be992eb8016e541a15953eee90760e-Abstract.html) [[code]](https://github.com/ChongjianGE/CARE)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Chongjian GE, Youwei Liang, YIBING SONG, Jianbo Jiao, Jue Wang, Ping Luo <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>   The University of Hong Kong; Tencent AI Lab; University of Oxford <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+
+***
 - Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss (**** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/27debb435021eb68b3965290b5e24c49-Abstract.html)
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -632,9 +661,9 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     <font color=Gray><b>· · Tags</b>:</font> 
     </details>
 
+
 ***
-- Improving Self-supervised Learning with Automated
-Unsupervised Outlier Arbitration (**UOTA** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/e8855b3528cb03d1def9803220bd3cb9-Abstract.html)
+- Improving Self-supervised Learning with Automated Unsupervised Outlier Arbitration (**UOTA** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/e8855b3528cb03d1def9803220bd3cb9-Abstract.html)
     <details>
     <summary><font size=2>More Info</font></summary>
     <font color=Gray><b>· · Author(s)</b>:</font> Yu Wang, Jingyang Lin, Jingjing Zou, Yingwei Pan, Ting Yao, Tao Mei <br>
