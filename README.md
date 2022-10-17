@@ -18,6 +18,15 @@ Note that only image-level representation learning methods are listed in this re
 ## 2022   
 
 ***
+- VICRegL: Self-Supervised Learning of Local Visual Features (**VICRegL** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2210.01571) [[code]](https://github.com/facebookresearch/VICRegL)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Adrien Bardes, Jean Ponce, Yann LeCun <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Meta, FAIR; Inria, École normale supérieure, CNRS, PSL Research University; New York University <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  local feature
+    </details>
+***
 - An Empirical Study on Disentanglement of Negative-free Contrastive Learning (**** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2206.04756) [[code]](https://github.com/noahcao/disentanglement_lib_med)
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -145,7 +154,7 @@ Note that only image-level representation learning methods are listed in this re
     <font color=Gray><b>· · Tags</b>:</font> 
     </details>
 ***
-- Masked Siamese Networks for Label-Efficient Learning (**MSN** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2204.07141) 
+- Masked Siamese Networks for Label-Efficient Learning (**MSN** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2204.07141)  [[code]](https://github.com/facebookresearch/msn)
     <details>
     <summary><font size=2>More Info</font></summary>
     <font color=Gray><b>· · Author(s)</b>:</font> Mahmoud Assran, Mathilde Caron, Ishan Misra, Piotr Bojanowski, Florian Bordes, Pascal Vincent, Armand Joulin, Michael Rabbat, Nicolas Ballas <br>
@@ -631,6 +640,43 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 
 ## 2021
 
+***
+- Aligning Pretraining for Detection via Object-Level Contrastive Learning (**SoCo** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/bf5cd8b2509011b9502a72296edc14a0-Abstract.html) [[code]](https://github.com/hologerry/SoCo)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Fangyun Wei, Yue Gao, Zhirong Wu, Han Hu, Stephen Lin <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Microsoft Research Asia <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  local
+    </details>
+***
+- Unsupervised Object-Level Representation Learning
+from Scene Images (**ORL** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/f1b6f2857fb6d44dd73c7041e0aa0f19-Abstract.html) [[code]](https://www.mmlab-ntu.com/project/orl/)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Nanyang Technological University; The Chinese University of Hong Kong <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  local
+    </details>
+***
+- Object-aware Contrastive Learning for Debiased Scene Representation (**ContraCAM** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/65d2ea03425887a717c435081cfc5dbb-Abstract.html) [[code]](https://github.com/alinlab/object-aware-contrastive)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Sangwoo Mo, Hyunwoo Kang, Kihyuk Sohn, Chun-Liang Li, Jinwoo Shin <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  KAIST; Google Cloud AI <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  contextual bias
+    </details>
+***
+- Intriguing Properties of Contrastive Losses (**** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/628f16b29939d1b060af49f66ae0f7f8-Abstract.html) [[code]](https://contrastive-learning.github.io/intriguing)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Ting Chen, Calvin Luo, Lala Li <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Google Research <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
 ***
 - ReSSL: Relational Self-Supervised Learning with Weak Augmentation (**ReSSL** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/14c4f36143b4b09cbc320d7c95a50ee7-Abstract.html) [[code]](https://github.com/KyleZheng1997/ReSSL)
     <details>
@@ -1143,6 +1189,25 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     </details>
 
 ## 2020
+
+***
+- Debiased Contrastive Learning (**DCL** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/63c3ddcc7b23daa1e42dc41f9a44a873-Abstract.html) [[code]](https://github.com/chingyaoc/DCL)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Ching-Yao Chuang, Joshua Robinson, Yen-Chen Lin, Antonio Torralba, Stefanie Jegelka <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Massachusetts Institute of Technology <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> False negative
+    </details>
+***
+- Bootstrap Your Own Latent - A New Approach to Self-Supervised Learning (**BYOL** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/f3ada80d5c4ee70142b17b8192b2958e-Abstract.html) [[code]](https://github.com/deepmind/deepmind-research/tree/master/byol) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Guo, Mohammad Gheshlaghi Azar, Bilal Piot, koray kavukcuoglu, Remi Munos, Michal Valko <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  DeepMind; Imperial College <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> Siamese architecture
+    </details>
 
 ***
 - Improved Baselines with Momentum Contrastive Learning (**MoCo v2** - <font color="#dd0000">**arXiv**20</font>) [[paper]](https://arxiv.org/pdf/2003.04297) [[code]](https://github.com/facebookresearch/moco) 
