@@ -18,6 +18,42 @@ Note that only image-level representation learning methods are listed in this re
 ## 2022   
 
 ***
+- VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning (**VICReg** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=xm6YD62D1Ub) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Adrien Bardes, Jean Ponce, Yann LeCun <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Facebook AI Research; Inria; New York University <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- Zero-CL: Instance and Feature decorrelation for negative-free symmetric contrastive learning (**Zero-CL** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=RAW9tCdVxLj) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Shaofeng Zhang, Feng Zhu, Junchi Yan, Rui Zhao, Xiaokang Yang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Shanghai Jiao Tong University; SenseTime Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- Understanding Dimensional Collapse in Contrastive Self-supervised Learning (**** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=YevsQ05DEN7) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Li Jing, Pascal Vincent, Yann LeCun, Yuandong Tian <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Facebook AI Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis
+    </details>
+***
+- Incremental False Negative Detection for Contrastive Learning (**IFND** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=dDjSKKA5TP1) [[code]](https://github.com/tsaishien-chen/IFND)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Tsai-Shien Chen, Wei-Chih Hung, Hung-Yu Tseng, Shao-Yi Chien, Ming-Hsuan Yang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  National Taiwan University; Waymo LLC; University of California, Merced; Yonsei University; Google Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  False negative
+    </details>
+***
 - VICRegL: Self-Supervised Learning of Local Visual Features (**VICRegL** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2210.01571) [[code]](https://github.com/facebookresearch/VICRegL)
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -1191,6 +1227,87 @@ from Scene Images (**ORL** - <font color="#dd0000">**NeurIPS**21</font>) [[paper
 ## 2020
 
 ***
+- Unsupervised Learning of Dense Visual Representations (**VADeR** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/3000311ca56a1cb93397bc676c0b7fff-Abstract.html) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Pedro O. O. Pinheiro, Amjad Almahairi, Ryan Benmalek, Florian Golemo, Aaron C. Courville <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Element AI; Cornell University; Mila, Université de Montréal; CIFAR Fellow <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> Dense
+    </details>
+***
+- CompRess: Self-Supervised Learning by Compressing Representations (**CompRess** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/975a1c8b9aee1c48d32e13ec30be7905-Abstract.html) [[code]](https://github.com/UMBCvision/CompRess)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Soroush Abbasi Koohpayegani, Ajinkya Tejankar, Hamed Pirsiavash <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  University of Maryland <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> self-supervised distillation
+    </details>
+***
+- Unsupervised Representation Learning by Invariance Propagation (**InvPro** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/23af4b45f1e166141a790d1a3126e77a-Abstract.html) [[code]](https://github.com/WangFeng18/InvariancePropagation)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Feng Wang, Huaping Liu, Di Guo, Sun Fuchun <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Tsinghua University <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
+- Joint Contrastive Learning with Infinite Possibilities (**JCL** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/9523147e5a6707baf674941812ee5c94-Abstract.html) [[code]](https://github.com/caiqi/Joint-Contrastive-Learning)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Qi Cai, Yu Wang, Yingwei Pan, Ting Yao, Tao Mei <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  University of Science and Technology of China; JD AI Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
+- Unsupervised Learning of Visual Features by Contrasting Cluster Assignments (**SwAV** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/70feb62b69f16e0238f741fab228fec2-Abstract.html) [[code]](https://github.com/facebookresearch/swav)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Inria; Facebook AI Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
+- Self-Supervised Visual Representation Learning from Hierarchical Grouping (**** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/c1502ae5a4d514baec129f72948c266e-Abstract.html) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Xiao Zhang, Michael Maire <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  University of Chicago <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> Pixel, Local
+    </details>
+***
+- Parametric Instance Classification for Unsupervised Visual Feature learning (**PIC** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/b427426b8acd2c2e53827970f2c2f526-Abstract.html) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Yue Cao, Zhenda Xie, Bin Liu, Yutong Lin, Zheng Zhang, Han Hu <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Microsoft Research Asia; Tsinghua University; Xi’an Jiaotong University <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
+- Hard Negative Mixing for Contrastive Learning (**MoCHi** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/f7cade80b7cc92b991cf4d2806d6bd78-Abstract.html) [[code]](https://europe.naverlabs.com/mochi)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Yannis Kalantidis, Mert Bulent Sariyildiz, Noe Pion, Philippe Weinzaepfel, Diane Larlus <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  NAVER LABS Europe <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
+- What Makes for Good Views for Contrastive Learning? (**InfoMin** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/4c2e5eaae9152079b9e95845750bb9ab-Abstract.html) [[code]](http://github.com/HobbitLong/PyContrast)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Yonglong Tian, Chen Sun, Ben Poole, Dilip Krishnan, Cordelia Schmid, Phillip Isola <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  MIT; Google Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
 - Debiased Contrastive Learning (**DCL** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/63c3ddcc7b23daa1e42dc41f9a44a873-Abstract.html) [[code]](https://github.com/chingyaoc/DCL)
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -1207,6 +1324,15 @@ from Scene Images (**ORL** - <font color="#dd0000">**NeurIPS**21</font>) [[paper
     <font color=Gray><b>· · Organization(s)</b>:</font>  DeepMind; Imperial College <br>
     <font color=Gray><b>· · Description</b>:</font>  <br>
     <font color=Gray><b>· · Tags</b>:</font> Siamese architecture
+    </details>
+***
+- MixCo: Mix-up Contrastive Learning for Visual Representation (**MixCo** - <font color="#dd0000">**NeurIPSW**20</font>) [[paper]](https://arxiv.org/abs/2010.06300) [[code]](https://github.com/Lee-Gihun/MixCo-Mixup-Contrast) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Sungnyun Kim, Gihun Lee, Sangmin Bae, Se-Young Yun <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  KAIST <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
     </details>
 
 ***
@@ -1332,6 +1458,22 @@ Representation Learning (**** - <font color="#dd0000">**ECCVW**20</font>) [[pape
 
 ## 2019
 
+***
+- Learning Representations by Maximizing Mutual Information Across Views (**AMDIM** - <font color="#dd0000">**NeurIPS**19</font>) [[paper]](https://proceedings.neurips.cc/paper/2019/hash/ddf354219aac374f1d40b7e760ee5bb7-Abstract.html) [[code]](https://github.com/Philip-Bachman/amdim-public)
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Philip Bachman, R Devon Hjelm, William Buchwalte <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Microsoft Research <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- Large Scale Adversarial Representation Learning (**BigBiGAN** - <font color="#dd0000">**NeurIPS**19</font>) [[paper]](https://proceedings.neurips.cc/paper/2019/hash/18cdf49ea54eec029238fcc95f76ce41-Abstract.html) 
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Jeff Donahue, Karen Simonyan <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  DeepMind <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font> Generative 
+    </details>
 ***
 - Unsupervised Embedding Learning via Invariant and Spreading Instance Feature (**ISIF** - <font color="#dd0000">**CVPR**19</font>) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ye_Unsupervised_Embedding_Learning_via_Invariant_and_Spreading_Instance_Feature_CVPR_2019_paper.pdf) [[code]](https://github.com/mangye16/Unsupervised_Embedding_Learning)
     <details>
