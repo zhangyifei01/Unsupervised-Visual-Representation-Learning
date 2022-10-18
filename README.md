@@ -18,6 +18,87 @@ Note that only image-level representation learning methods are listed in this re
 ## 2022   
 
 ***
+- Self-supervised Learning is More Robust to Dataset Imbalance (**** - <font color="#dd0000">**ICLR**22 Spotlight</font>) [[paper]](https://openreview.net/forum?id=4AZz9osqrar) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Hong Liu, Jeff Z. HaoChen, Adrien Gaidon, Tengyu Ma <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Stanford University; Toyota Research Institute<br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis, Imbalance data
+    </details>
+***
+- Chaos is a Ladder: A New Theoretical Understanding of Contrastive Learning via Augmentation Overlap (**** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=ECvgmYVyeUz) [[code]](https://github.com/zhangq327/ARC)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Yifei Wang, Qi Zhang, Yisen Wang, Jiansheng Yang, Zhouchen Lin <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Peking University; Sun Yat-sen University;  Peng Cheng Laboratory<br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis 
+    </details>
+***
+- How Does SimSiam Avoid Collapse Without Negative Samples? A Unified Understanding with Self-supervised Contrastive Learning (**** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=bwq6O4Cwdl) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Chaoning Zhang, Kang Zhang, Chenshuang Zhang, Trung X. Pham, Chang D. Yoo, In So Kweon <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  KAIST <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis 
+    </details>
+***
+- Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution (**LP-FT** - <font color="#dd0000">**ICLR**22 Oral</font>) [[paper]](https://openreview.net/forum?id=UYneFzXSJWh) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Ananya Kumar, Aditi Raghunathan, Robbie Matthew Jones, Tengyu Ma, Percy Liang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Stanford University <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis 
+    </details>
+***
+- Scarf: Self-Supervised Contrastive Learning using Random Feature Corruption (**Scarf** - <font color="#dd0000">**ICLR**22 Spotlight</font>) [[paper]](https://openreview.net/forum?id=CuV_qYkmKb3) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Dara Bahri, Heinrich Jiang, Yi Tay, Donald Metzler <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Google Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Tabular domain 
+    </details>
+***
+- Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing (**QRP** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=HFPTzdwN39)  [[code]](https://github.com/iro-cp/ssl-qrp)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Iro Laina, Yuki M Asano, Andrea Vedaldi <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  University of Oxford; University of Amsterdam <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Interpretability 
+    </details>
+***
+- Equivariant Contrastive Learning (Equivariant Self-Supervised Learning: Encouraging Equivariance in Representations) (**E-SSL** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=gKLAAfiytI)  [[code]](https://github.com/rdangovs/essl)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Rumen Dangovski, Li Jing, Charlotte Loh, Seungwook Han, Akash Srivastava, Brian Cheung, Pulkit Agrawal, Marin Soljacic <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  MIT; FAIR <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Equivariant 
+    </details>
+***
+- Divergence-aware Federated Self-Supervised Learning (**FedSSL** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=oVE1z8NlNe) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Weiming Zhuang, Yonggang Wen, Shuai Zhang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  NTU; SenseTime Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Federal 
+    </details>
+***
+- Bag of Instances Aggregation Boosts Self-supervised Distillation (**BINGO** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=N0uJGWDw21d) [[code]](https://github.com/haohang96/bingo)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Haohang Xu, Jiemin Fang, XIAOPENG ZHANG, Lingxi Xie, Xinggang Wang, Wenrui Dai, Hongkai Xiong, Qi Tian <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Shanghai Jiao Tong University; Huawei Inc.; Huazhong University of Science & Technology <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Self-supervised distillation
+    </details>
+***
 - VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning (**VICReg** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=xm6YD62D1Ub) 
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -35,6 +116,26 @@ Note that only image-level representation learning methods are listed in this re
     <font color=Gray><b>· · Description</b>:</font>  <br>
     <font color=Gray><b>· · Tags</b>:</font>  
     </details>
+***
+- BEiT: BERT Pre-Training of Image Transformers  (**BEiT** - <font color="#dd0000">**ICLR**22 Oral</font>) [[paper]](https://openreview.net/pdf?id=p-BhZSz59o4) [[code]](https://github.com/microsoft/unilm)
+    <details> 
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray> <b>· · Author(s)</b>:</font> Hangbo Bao, Li Dong, Songhao Piao, Furu Wei  <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Harbin Institute of Technology; Microsoft Research <br>
+    <font color=Gray><b>· · Description</b>: </font>  <br>
+    <font color=Gray><b>· · Tags</b>: </font> Transformer
+    </details>
+
+***
+- Efficient Self-supervised Vision Transformers for Representation Learning  (**EsViT** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/pdf?id=fVu3o-YUGQK) [[code]](https://github.com/microsoft/esvit)
+    <details> 
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray> <b>· · Author(s)</b>:</font> Hangbo Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, Lu Yuan, Jianfeng Gao  <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Microsoft Research at Redmond; Microsoft Cloud + AI <br>
+    <font color=Gray><b>· · Description</b>: </font>  <br>
+    <font color=Gray><b>· · Tags</b>: </font> Transformer
+    </details>
+
 ***
 - Understanding Dimensional Collapse in Contrastive Self-supervised Learning (**** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=YevsQ05DEN7) 
     <details>
@@ -324,26 +425,6 @@ Learning from Insufficient Data (**EqInv** - <font color="#dd0000">**ECCV**22</f
     <summary><font size=2>More Info</font></summary>
     <font color=Gray> <b>· · Author(s)</b>:</font> Shuangfei Zhai, Navdeep Jaitly, Jason Ramapuram, Dan Busbridge, Tatiana Likhomanenko, Joseph Y Cheng, Walter Talbott, Chen Huang, Hanlin Goh, Joshua M Susskind  <br>
     <font color=Gray><b>· · Organization(s)</b>:</font>  Apple Inc. <br>
-    <font color=Gray><b>· · Description</b>: </font>  <br>
-    <font color=Gray><b>· · Tags</b>: </font> Transformer
-    </details>
-
-***
-- BEiT: BERT Pre-Training of Image Transformers  (**BEiT** - <font color="#dd0000">**ICLR**22 Oral</font>) [[paper]](https://openreview.net/pdf?id=p-BhZSz59o4) [[code]](https://github.com/microsoft/unilm)
-    <details> 
-    <summary><font size=2>More Info</font></summary>
-    <font color=Gray> <b>· · Author(s)</b>:</font> Hangbo Bao, Li Dong, Songhao Piao, Furu Wei  <br>
-    <font color=Gray><b>· · Organization(s)</b>:</font>  Harbin Institute of Technology; Microsoft Research <br>
-    <font color=Gray><b>· · Description</b>: </font>  <br>
-    <font color=Gray><b>· · Tags</b>: </font> Transformer
-    </details>
-
-***
-- Efficient Self-supervised Vision Transformers for Representation Learning  (**EsViT** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/pdf?id=fVu3o-YUGQK) [[code]](https://github.com/microsoft/esvit)
-    <details> 
-    <summary><font size=2>More Info</font></summary>
-    <font color=Gray> <b>· · Author(s)</b>:</font> Hangbo Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, Lu Yuan, Jianfeng Gao  <br>
-    <font color=Gray><b>· · Organization(s)</b>:</font>  Microsoft Research at Redmond; Microsoft Cloud + AI <br>
     <font color=Gray><b>· · Description</b>: </font>  <br>
     <font color=Gray><b>· · Tags</b>: </font> Transformer
     </details>
@@ -676,6 +757,60 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 
 ## 2021
 
+***
+- i-Mix: A Domain-Agnostic Strategy for Contrastive Representation Learning  (**i-Mix** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=T6AxtOaWydQ) [[code]](https://github.com/kibok90/imix)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Kibok Lee, Yian Zhu, Kihyuk Sohn, Chun-Liang Li, Jinwoo Shin, Honglak Lee <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  University of Michigan; Amazon Web Services; Google Cloud AI; KAIST; LG AI Research <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Interpolation
+    </details>
+***
+- What Should Not Be Contrastive in Contrastive Learning    (**LooC** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=CZ8Y3NzuVzO) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Tete Xiao, Xiaolong Wang, Alexei A Efros, Trevor Darrell <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  UC Berkeley; UC San Diego <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- CO2: Consistent Contrast for Unsupervised Visual Representation Learning   (**CO2** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=U4XLJhqwNF1) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Chen Wei, Huiyu Wang, Wei Shen, Alan Yuille <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Johns Hopkins University <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Distribution
+    </details>
+***
+- What Makes Instance Discrimination Good for Transfer Learning?   (**** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=tC6iW2UUbJf) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Nanxuan Zhao, Zhirong Wu, Rynson W. H. Lau, Stephen Lin <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  City University of Hong Kong; Microsoft Research Asia <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Transfer
+    </details>
+***
+- SEED: Self-supervised Distillation For Visual Representation  (**SEED** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=AHm3dbp7D1D) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Zhiyuan Fang, Jianfeng Wang, Lijuan Wang, Lei Zhang, Yezhou Yang, Zicheng Liu <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Arizona State University; Microsoft Corporation <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Self-supervised distillation
+    </details>
+***
+- Prototypical Contrastive Learning of Unsupervised Representations  (**PCL** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=KmykpuSrjcq) [[code]](https://github.com/salesforce/PCL)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Junnan Li, Pan Zhou, Caiming Xiong, Steven Hoi <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Salesforce Research <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Clustering
+    </details>
 ***
 - Aligning Pretraining for Detection via Object-Level Contrastive Learning (**SoCo** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/bf5cd8b2509011b9502a72296edc14a0-Abstract.html) [[code]](https://github.com/hologerry/SoCo)
     <details>
