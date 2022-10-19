@@ -282,6 +282,15 @@ Note that only image-level representation learning methods are listed in this re
     </details>
 
 ***
+- Towards Efficient and Effective Self-Supervised Learning of Visual Representations (**EffSSL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2210.09866) [[code]](https://github.com/val-iisc/EffSSL)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Sravanti Addepalli, Kaushal Bhogale, Priyam Dey, R.Venkatesh Babu <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Indian Institute of Science <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br> 
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
 - Understanding Collapse in Non-Contrastive Siamese Representation Learning (**** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2209.15007) 
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -757,6 +766,33 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
 
 ## 2021
 
+***
+- Improving Transformation Invariance in Contrastive Representation Learning  (**InvCLR** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=NomEDgIEBwE) [[code]](https://github.com/ae-foster/invclr)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Adam Foster, Rattana Pukdee, Tom Rainforth <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  University of Oxford <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- Contrastive Learning with Hard Negative Samples  (**HCL** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=CR1XOQ0UTh-) [[code]](https://github.com/joshr17/HCL)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Joshua David Robinson, Ching-Yao Chuang, Suvrit Sra, Stefanie Jegelka <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Massachusetts Institute of Technology <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Hard negative
+    </details>
+***
+- Representation Learning via Invariant Causal Mechanisms  (**ReLIC** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=9p2ekP904Rs) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Jovana Mitrovic, Brian McWilliams, Jacob C Walker, Lars Holger Buesing, Charles Blundell <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  DeepMind <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis, Distribution
+    </details>
 ***
 - i-Mix: A Domain-Agnostic Strategy for Contrastive Representation Learning  (**i-Mix** - <font color="#dd0000">**ICLR**21</font>) [[paper]](https://openreview.net/forum?id=T6AxtOaWydQ) [[code]](https://github.com/kibok90/imix)
     <details>
@@ -1362,6 +1398,33 @@ from Scene Images (**ORL** - <font color="#dd0000">**NeurIPS**21</font>) [[paper
 ## 2020
 
 ***
+- A critical analysis of self-supervision, or what we can learn from a single image (**** - <font color="#dd0000">**ICLR**20 </font>) [[paper]](https://openreview.net/forum?id=B1esx6EYvr) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Asano YM., Rupprecht C., Vedaldi A. <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  VGG, University of Oxford <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> Analysis
+    </details>
+***
+- On Mutual Information Maximization for Representation Learning (**** - <font color="#dd0000">**ICLR**20 </font>) [[paper]](https://openreview.net/forum?id=rkxoh24FPH) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Google Research <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> Analysis
+    </details>
+***
+- Self-labelling via simultaneous clustering and representation learning (**SeLa** - <font color="#dd0000">**ICLR**20 Spotlight</font>) [[paper]](https://openreview.net/forum?id=Hyx-jyBFPr) [[code]](https://github.com/yukimasano/self-label)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Asano YM., Rupprecht C., Vedaldi A. <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  VGG, University of Oxford <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> Clustering
+    </details>
+***
 - Unsupervised Learning of Dense Visual Representations (**VADeR** - <font color="#dd0000">**NeurIPS**20</font>) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/3000311ca56a1cb93397bc676c0b7fff-Abstract.html) 
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -1594,6 +1657,15 @@ Representation Learning (**** - <font color="#dd0000">**ECCVW**20</font>) [[pape
 ## 2019
 
 ***
+- Learning deep representations by mutual information estimation and maximization  (**DIM** - <font color="#dd0000">**ICLR**19 Oral</font>) [[paper]](https://openreview.net/forum?id=Bklr3j0cKX) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  MSR Montreal; MILA; UdeM; IVADO; UNM; U Toronto <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
 - Learning Representations by Maximizing Mutual Information Across Views (**AMDIM** - <font color="#dd0000">**NeurIPS**19</font>) [[paper]](https://proceedings.neurips.cc/paper/2019/hash/ddf354219aac374f1d40b7e760ee5bb7-Abstract.html) [[code]](https://github.com/Philip-Bachman/amdim-public)
     <summary><font size=2>More Info</font></summary>
     <font color=Gray><b>· · Author(s)</b>:</font> Philip Bachman, R Devon Hjelm, William Buchwalte <br>
@@ -1723,6 +1795,15 @@ Representation Learning (**** - <font color="#dd0000">**ECCVW**20</font>) [[pape
 ## 2018
 
 ***
+- Unsupervised Representation Learning by Predicting Image Rotations  (**RotNet** - <font color="#dd0000">**ICLR**18</font>) [[paper]](https://openreview.net/forum?id=S1v4N2l0-) [[code]](https://github.com/gidariss/FeatureLearningRotNet) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Spyros Gidaris, Praveer Singh, Nikos Komodakis <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  University Paris-Est; Ecole des Ponts ParisTech <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
+***
 - Unsupervised Feature Learning via Non-Parametric Instance Discrimination ( **InsDis** - <font color="#dd0000">**CVPR**18</font> Spotlight) [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.pdf) [[code]](https://github.com/zhirongw/lemniscate.pytorch)
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -1771,6 +1852,15 @@ Representation Learning (**** - <font color="#dd0000">**ECCVW**20</font>) [[pape
 
 ## 2017
 
+***
+- Adversarial Feature Learning  (**BiGANs** - <font color="#dd0000">**ICLR**18</font>) [[paper]](https://openreview.net/forum?id=BJtNZAFgg) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Jeff Donahue, Philipp Krähenbühl, Trevor Darrell <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  University of California, Berkeley; University of Texas, Austin <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> 
+    </details>
 ***
 - Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction (**Split-Brain Auto** - <font color="#dd0000">**CVPR**17</font> ) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Split-Brain_Autoencoders_Unsupervised_CVPR_2017_paper.pdf) [[code]](https://github.com/richzhang/splitbrainauto)
     <details>
