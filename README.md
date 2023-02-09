@@ -6,7 +6,7 @@
 Unsupervised visual representation learning (UVRL) aims at learning generic representations for the initialization of downstream tasks. 
 As stated in MoCo, self-supervised learning is a form of unsupervised learning and their distinction is informal in the existing literature. Therefore, it is more inclined to be called UVRL here. So, which one do you prefer?
 
-We list related papers from conferences and journals such as **[CVPR](https://openaccess.thecvf.com/menu)**, **[ICCV](https://openaccess.thecvf.com/menu)**, **[ECCV](https://www.ecva.net/)**, **[ICLR](https://openreview.net/group?id=ICLR.cc&referrer=%5BHomepage%5D(%2F))**, **[ICML](https://proceedings.mlr.press/)**, **[NeurIPS](https://nips.cc/)**, **[AAAI](https://aaai.org/Library/conferences-library.php)**, **[TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
+We list related papers from conferences and journals such as **[CVPR](https://openaccess.thecvf.com/menu)**, **[ICCV](https://openaccess.thecvf.com/menu)**, **[ECCV](https://www.ecva.net/)**, **[ICLR](https://openreview.net/group?id=ICLR.cc&referrer=%5BHomepage%5D(%2F))**, **[ICML](https://proceedings.mlr.press/)**, **[NeurIPS](https://nips.cc/)**, **[AAAI](https://aaai.org/Library/conferences-library.php)**, **[IJCAI](https://www.ijcai.org/)**, **[TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)**, **TIP**, **TNNLS**, **TCSVT**, **TMM** etc.
 
 Note that only image-level representation learning methods are listed in this repository. [Video-level self-supervision](https://github.com/zhangyifei01/Self-supervised-Video-Representation-Learning) and multi-modal self-supervision are to be sorted out.
 
@@ -14,6 +14,18 @@ Note that only image-level representation learning methods are listed in this re
 
 **关键词：** 无监督学习，自监督学习，表示学习，预训练，迁移学习，对比学习，借口（代理）任务
 
+
+## 2023   
+
+***
+- Soft Neighbors are Positive Supporters in Contrastive Visual Representation Learning (**SNCLR** - <font color="#dd0000">**ICLR**23 </font>) [[paper]](https://openreview.net/forum?id=l9vM_PaUKz) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Chongjian GE, Jiangliu Wang, Zhan Tong, Shoufa Chen, Yibing Song, Ping Luo <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> HongKong University and so on <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Soft neighbor
+    </details>
 
 ## 2022   
 
@@ -155,6 +167,24 @@ Note that only image-level representation learning methods are listed in this re
     <font color=Gray><b>· · Tags</b>:</font>  False negative
     </details>
 ***
+- Self-Supervised Learning via Maximum Entropy Coding (**MEC** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2210.11464)  [[code]](https://github.com/xinliu20/MEC)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Xin Liu, Zhongdao Wang, Yali Li, Shengjin Wang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Tsinghua University <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
+- Self-Supervised Learning Through Efference Copies (**S-TEC** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2210.09224) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Franz Scherr, Qinghai Guo, Timoleon Moraitis <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Huawei Technologies <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+***
 - VICRegL: Self-Supervised Learning of Local Visual Features (**VICRegL** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2210.01571) [[code]](https://github.com/facebookresearch/VICRegL)
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -281,6 +311,24 @@ Note that only image-level representation learning methods are listed in this re
     <font color=Gray><b>· · Tags</b>:</font>  Transformer
     </details>
 
+***
+- Improving Self-Supervised Lightweight Model Learning via Hard-Aware Metric Distillation (**SMD** - <font color="#dd0000">**ECCV**22 Oral</font>) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910286.pdf) [[code]](https://github.com/liuhao-lh/SMD)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Hao Liu, Mang Ye <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Wuhan University; Beijing Institute of Technology <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br> 
+    <font color=Gray><b>· · Tags</b>:</font>  distillation
+    </details>
+***
+- Revisiting the Critical Factors of Augmentation-Invariant Representation Learning (**** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910040.pdf) [[code]](https://github.com/megvii-research/revisitAIRL)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Junqiang Huang, Xiangwen Kong, Xiangyu Zhang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  MEGVII Technology <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br> 
+    <font color=Gray><b>· · Tags</b>:</font>  Analysis
+    </details>
 ***
 - Towards Efficient and Effective Self-Supervised Learning of Visual Representations (**EffSSL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://arxiv.org/abs/2210.09866) [[code]](https://github.com/val-iisc/EffSSL)
     <details>
@@ -439,6 +487,16 @@ Learning from Insufficient Data (**EqInv** - <font color="#dd0000">**ECCV**22</f
     </details>
 
 ***
+- Boosting Contrastive Learning with Relation Knowledge Distillation (**ReKD** - <font color="#dd0000">**AAAI**22</font>) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20262) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Kai Zheng, Yuanjiang Wang, Ye Yuan <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Megvii Technology<br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font> distill
+    </details>
+***
+
 - Masked Autoencoders Are Scalable Vision Learners (**MAE** - <font color="#dd0000">**CVPR**22</font> Oral) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) [[code]](https://github.com/facebookresearch/mae) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/He_Masked_Autoencoders_Are_CVPR_2022_supplemental.pdf)
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -847,6 +905,17 @@ Region Priors for Object Detection (**DETReg** - <font color="#dd0000">**CVPR**2
     <font color=Gray><b>· · Description</b>:</font>   <br>
     <font color=Gray><b>· · Tags</b>:</font>  Clustering
     </details>
+
+***
+- Unsupervised Representation Transfer for Small Networks: I Believe I Can Distill On-the-Fly (**OSS** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/cecd845e3577efdaaf24eea03af4c033-Abstract.html) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Hee Min Choi, Hyoa Kang, Dokwan Oh <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Samsung Advanced Institute of Technology <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  distill
+    </details>
+
 ***
 - Aligning Pretraining for Detection via Object-Level Contrastive Learning (**SoCo** - <font color="#dd0000">**NeurIPS**21</font>) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/bf5cd8b2509011b9502a72296edc14a0-Abstract.html) [[code]](https://github.com/hologerry/SoCo)
     <details>
@@ -1142,6 +1211,17 @@ from Scene Images (**ORL** - <font color="#dd0000">**NeurIPS**21</font>) [[paper
     <font color=Gray><b>· · Description</b>:</font>   <br>
     <font color=Gray><b>· · Tags</b>:</font> Metric Learning
     </details>
+
+***
+- Distill on the Go: Online Knowledge Distillation in Self-Supervised Learning (**DoGo** - <font color="#dd0000">**CVPRW**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/LLID/html/Bhat_Distill_on_the_Go_Online_Knowledge_Distillation_in_Self-Supervised_Learning_CVPRW_2021_paper.html) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Prashant Bhat, Elahe Arani, Bahram Zonooz <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Advanced Research Lab, NavInfo Europe, Eindhoven, The Netherlands <br>
+    <font color=Gray><b>· · Description</b>:</font>   <br>
+    <font color=Gray><b>· · Tags</b>:</font>  distill
+    </details>
+    
 ***
 - DetCo: Unsupervised Contrastive Learning for Object Detection (**DetCo** - <font color="#dd0000">**ICCV**21</font>) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_DetCo_Unsupervised_Contrastive_Learning_for_Object_Detection_ICCV_2021_paper.pdf) [[code]](github.com/xieenze/DetCo) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xie_DetCo_Unsupervised_Contrastive_ICCV_2021_supplemental.pdf)
     <details>
@@ -2005,11 +2085,11 @@ UVRL is also closely related to some other research directions, such as **Unsupe
 
 ### **Some Influential Repositories**    </details>
 ***
-- awesome-self-supervised-learning (star 5.0k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
+- awesome-self-supervised-learning (star 5.2k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
 
-- Awesome-Knowledge-Distillation (star 1.8k) [[link]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
+- Awesome-Knowledge-Distillation (star 2k) [[link]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 
-- DeepClustering (star 1.8k) [[link]](https://github.com/zhoushengisnoob/DeepClustering)
+- DeepClustering (star 2k) [[link]](https://github.com/zhoushengisnoob/DeepClustering)
 
 - awesome-metric-learning [[link]](https://github.com/qdrant/awesome-metric-learning)
 
