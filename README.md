@@ -27,6 +27,46 @@ Note that only image-level representation learning methods are listed in this re
     <font color=Gray><b>· · Tags</b>:</font>  Soft neighbor
     </details>
 
+***
+- Energy-Inspired Self-Supervised Pretraining for Vision Models (**** - <font color="#dd0000">**ICLR**23 Spotlight </font>) [[paper]](https://openreview.net/forum?id=ZMz-sW6gCLF) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Ze Wang, Jiang Wang, Zicheng Liu, Qiang Qiu <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> Purdue University; Microsoft Corporation <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Energy
+    </details>
+
+***
+- EquiMod: An Equivariance Module to Improve Self-Supervised Learning (**EquiMod** - <font color="#dd0000">**ICLR**23 </font>) [[paper]](https://openreview.net/forum?id=eDLwjKmtYFt) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Alexandre DEVILLERS, Mathieu Lefort <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> Université Claude Bernard <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Equivariance
+    </details>
+
+***
+- Mosaic Representation Learning for Self-supervised Visual Pre-training (**MosRep** - <font color="#dd0000">**ICLR**23 Spotlight </font>) [[paper]](https://openreview.net/forum?id=JAezPMehaUu) [[code]](https://github.com/DerrickWang005/MosRep)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Zhaoqing Wang, Ziyu Chen, Yaqian Li, Yandong Guo, Jun Yu, Mingming Gong, Tongliang Liu <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> The University of Sydney <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  
+    </details>
+
+***
+- Temperature Schedules for self-supervised contrastive methods on long-tail data (**** - <font color="#dd0000">**ICLR**23 </font>) [[paper]](https://openreview.net/forum?id=ejHUr4nfHhD) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Anna Kukleva, Moritz Böhle, Bernt Schiele, Hilde Kuehne, Christian Rupprecht <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> Saarland Informatics Campus, Max-Planck Institute <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Long-tail
+    </details>
+
 ## 2022   
 
 ***
@@ -311,6 +351,15 @@ Note that only image-level representation learning methods are listed in this re
     <font color=Gray><b>· · Tags</b>:</font>  Transformer
     </details>
 
+***
+- Constrained Mean Shift Using Distant Yet Related Neighbors for Representation Learning (**CMSF** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4300_ECCV_2022_paper.php) [[code]](https://github.com/UCDvision/CMSF)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> K L Navaneet, Soroush Abbasi Koohpayegani, Ajinkya Tejankar, Kossar Pourahmadi, Akshayvarun Subramanya, Hamed Pirsiavash <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> University of California, Davis; University of Maryland <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br> 
+    <font color=Gray><b>· · Tags</b>:</font>  NN
+    </details>
 ***
 - Improving Self-Supervised Lightweight Model Learning via Hard-Aware Metric Distillation (**SMD** - <font color="#dd0000">**ECCV**22 Oral</font>) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910286.pdf) [[code]](https://github.com/liuhao-lh/SMD)
     <details>
@@ -2085,11 +2134,11 @@ UVRL is also closely related to some other research directions, such as **Unsupe
 
 ### **Some Influential Repositories**    </details>
 ***
-- awesome-self-supervised-learning (star 5.2k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
+- awesome-self-supervised-learning (star 5.4k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
 
-- Awesome-Knowledge-Distillation (star 2k) [[link]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
+- Awesome-Knowledge-Distillation (star 2.1k) [[link]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 
-- DeepClustering (star 2k) [[link]](https://github.com/zhoushengisnoob/DeepClustering)
+- DeepClustering (star 2.1k) [[link]](https://github.com/zhoushengisnoob/DeepClustering)
 
 - awesome-metric-learning [[link]](https://github.com/qdrant/awesome-metric-learning)
 
