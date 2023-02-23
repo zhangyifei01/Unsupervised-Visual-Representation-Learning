@@ -70,6 +70,15 @@ Note that only image-level representation learning methods are listed in this re
 ## 2022   
 
 ***
+- LPCL: Localized prominence contrastive learning for self-supervised dense visual pre-training (**LPCL** - <font color="#dd0000">**PR**22</font>) [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320322006641) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Zihan Chen, Hongyuan Zhu1, Hao Cheng, Siya Mi, Yu Zhang, Xin Geng <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Southeast University; A*STAR; Purple Mountain Laboratories<br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Dense
+    </details>
+***
 - Self-supervised Learning is More Robust to Dataset Imbalance (**** - <font color="#dd0000">**ICLR**22 Spotlight</font>) [[paper]](https://openreview.net/forum?id=4AZz9osqrar) 
     <details>
     <summary><font size=2>More Info</font></summary>
