@@ -18,6 +18,24 @@ Note that only image-level representation learning methods are listed in this re
 ## 2023   
 
 ***
+- Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations (**** - <font color="#dd0000">**ICLR**23 </font>) [[paper]](https://openreview.net/forum?id=jwdqNwyREyh) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Ziyu Jiang, Yinpeng Chen, Mengchen Liu, Dongdong Chen, Xiyang Dai, Lu Yuan, Zicheng Liu, Zhangyang Wang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> Texas A&M University; Microsoft; University of Texas at Austin <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  CL, MIM
+    </details>
+***
+- Patch-Level Contrasting without Patch Correspondence for Accurate and Dense Contrastive Representation Learning (**ADCLR** - <font color="#dd0000">**ICLR**23 </font>) [[paper]](https://openreview.net/forum?id=10R_bcjFwJ) 
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Shaofeng Zhang, Feng Zhu, Rui Zhao, Junchi Yan <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> Shanghai Jiao Tong University; SenseTime Group Limited <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br>
+    <font color=Gray><b>· · Tags</b>:</font>  Dense
+    </details>
+***
 - Soft Neighbors are Positive Supporters in Contrastive Visual Representation Learning (**SNCLR** - <font color="#dd0000">**ICLR**23 </font>) [[paper]](https://openreview.net/forum?id=l9vM_PaUKz) 
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -73,7 +91,7 @@ Note that only image-level representation learning methods are listed in this re
 - LPCL: Localized prominence contrastive learning for self-supervised dense visual pre-training (**LPCL** - <font color="#dd0000">**PR**22</font>) [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320322006641) 
     <details>
     <summary><font size=2>More Info</font></summary>
-    <font color=Gray><b>· · Author(s)</b>:</font> Zihan Chen, Hongyuan Zhu1, Hao Cheng, Siya Mi, Yu Zhang, Xin Geng <br>
+    <font color=Gray><b>· · Author(s)</b>:</font> Zihan Chen, Hongyuan Zhu, Hao Cheng, Siya Mi, Yu Zhang, Xin Geng <br>
     <font color=Gray><b>· · Organization(s)</b>:</font>  Southeast University; A*STAR; Purple Mountain Laboratories<br>
     <font color=Gray><b>· · Description</b>:</font>  <br>
     <font color=Gray><b>· · Tags</b>:</font>  Dense
@@ -193,6 +211,16 @@ Note that only image-level representation learning methods are listed in this re
     <summary><font size=2>More Info</font></summary>
     <font color=Gray> <b>· · Author(s)</b>:</font> Hangbo Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, Lu Yuan, Jianfeng Gao  <br>
     <font color=Gray><b>· · Organization(s)</b>:</font>  Microsoft Research at Redmond; Microsoft Cloud + AI <br>
+    <font color=Gray><b>· · Description</b>: </font>  <br>
+    <font color=Gray><b>· · Tags</b>: </font> Transformer
+    </details>
+
+***
+- iBOT：Image BERT Pre-Training with Online Tokenizer  (**iBOT** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=ydopy-e6Dg) [[code]](https://github.com/bytedance/ibot)
+    <details> 
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray> <b>· · Author(s)</b>:</font> Jinghao Zhou, Chen Wei, Huiyu Wang, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong  <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  ByteDance; Johns Hopkins University; Shanghai Jiao Tong University; UC Santa Cruz <br>
     <font color=Gray><b>· · Description</b>: </font>  <br>
     <font color=Gray><b>· · Tags</b>: </font> Transformer
     </details>
