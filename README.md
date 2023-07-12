@@ -398,6 +398,15 @@ Note that only image-level representation learning methods are listed in this re
     <font color=Gray><b>· · Tags</b>:</font>  NN
     </details>
 ***
+- Relative Contrastive Loss for Unsupervised Representation Learning (**RCL** - <font color="#dd0000">**ECCV**22</font>) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6602_ECCV_2022_paper.php)
+    <details>
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray><b>· · Author(s)</b>:</font> Shixiang Tang, Feng Zhu, Lei Bai, Rui Zhao, and Wanli Ouyang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> University of Sydney et.al. <br>
+    <font color=Gray><b>· · Description</b>:</font>  <br> 
+    <font color=Gray><b>· · Tags</b>:</font>  soft, clustering
+    </details>
+***
 - Improving Self-Supervised Lightweight Model Learning via Hard-Aware Metric Distillation (**SMD** - <font color="#dd0000">**ECCV**22 Oral</font>) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910286.pdf) [[code]](https://github.com/liuhao-lh/SMD)
     <details>
     <summary><font size=2>More Info</font></summary>
@@ -2171,11 +2180,11 @@ UVRL is also closely related to some other research directions, such as **Unsupe
 
 ### **Some Influential Repositories**    </details>
 ***
-- awesome-self-supervised-learning (star 5.4k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
+- awesome-self-supervised-learning (star 5.6k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
 
-- Awesome-Knowledge-Distillation (star 2.1k) [[link]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
+- Awesome-Knowledge-Distillation (star 2.2k) [[link]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 
-- DeepClustering (star 2.1k) [[link]](https://github.com/zhoushengisnoob/DeepClustering)
+- DeepClustering (star 2.4k) [[link]](https://github.com/zhoushengisnoob/DeepClustering)
 
 - awesome-metric-learning [[link]](https://github.com/qdrant/awesome-metric-learning)
 
